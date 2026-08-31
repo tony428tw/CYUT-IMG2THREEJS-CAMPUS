@@ -1,0 +1,271 @@
+{
+  "passed": false,
+  "checks": {
+    "silhouetteIoU": 0.8622,
+    "aspectRatioDelta": 0.0234,
+    "scaleDelta": 0.043,
+    "bilateralSymmetryError": 0.109,
+    "colorDelta": {
+      "checked": 62,
+      "maxDeltaE": 24.27,
+      "perComponent": [
+        {
+          "componentId": "root",
+          "deltaE": 4.19
+        },
+        {
+          "componentId": "plinth",
+          "deltaE": 10.0
+        },
+        {
+          "componentId": "landscape",
+          "deltaE": 10.53
+        },
+        {
+          "componentId": "west-wing",
+          "deltaE": 4.19
+        },
+        {
+          "componentId": "east-wing",
+          "deltaE": 4.19
+        },
+        {
+          "componentId": "central-block",
+          "deltaE": 4.19
+        },
+        {
+          "componentId": "tower",
+          "deltaE": 4.19
+        },
+        {
+          "componentId": "tower-roof",
+          "deltaE": 8.76
+        },
+        {
+          "componentId": "west-roof",
+          "deltaE": 8.76
+        },
+        {
+          "componentId": "east-roof",
+          "deltaE": 8.76
+        },
+        {
+          "componentId": "central-roof",
+          "deltaE": 8.76
+        },
+        {
+          "componentId": "arcade",
+          "deltaE": 17.26
+        },
+        {
+          "componentId": "arcade-roof",
+          "deltaE": 8.76
+        },
+        {
+          "componentId": "west-turret",
+          "deltaE": 4.19
+        },
+        {
+          "componentId": "west-turret-roof",
+          "deltaE": 8.76
+        },
+        {
+          "componentId": "east-turret",
+          "deltaE": 4.19
+        },
+        {
+          "componentId": "east-turret-roof",
+          "deltaE": 8.76
+        },
+        {
+          "componentId": "west-arcade",
+          "deltaE": 17.26
+        },
+        {
+          "componentId": "west-windows",
+          "deltaE": 24.27
+        },
+        {
+          "componentId": "west-piers",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "west-dormers",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "west-parapets",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "west-side-windows",
+          "deltaE": 24.27
+        },
+        {
+          "componentId": "east-arcade",
+          "deltaE": 17.26
+        },
+        {
+          "componentId": "east-windows",
+          "deltaE": 24.27
+        },
+        {
+          "componentId": "east-piers",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "east-dormers",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "east-parapets",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "east-side-windows",
+          "deltaE": 24.27
+        },
+        {
+          "componentId": "central-windows",
+          "deltaE": 24.27
+        },
+        {
+          "componentId": "tower-clock",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "tower-window",
+          "deltaE": 24.27
+        },
+        {
+          "componentId": "tower-lower-window",
+          "deltaE": 24.27
+        },
+        {
+          "componentId": "balcony",
+          "deltaE": 4.19
+        },
+        {
+          "componentId": "stairs",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "pavement",
+          "deltaE": 11.56
+        },
+        {
+          "componentId": "road",
+          "deltaE": 7.41
+        },
+        {
+          "componentId": "roof-dormers",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "central-parapet",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "front-plaque",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "west-hedges",
+          "deltaE": 10.53
+        },
+        {
+          "componentId": "west-tree-0",
+          "deltaE": 4.23
+        },
+        {
+          "componentId": "west-tree-1",
+          "deltaE": 4.23
+        },
+        {
+          "componentId": "west-tree-2",
+          "deltaE": 4.23
+        },
+        {
+          "componentId": "west-shrubs",
+          "deltaE": 4.23
+        },
+        {
+          "componentId": "east-hedges",
+          "deltaE": 10.53
+        },
+        {
+          "componentId": "east-tree-0",
+          "deltaE": 4.23
+        },
+        {
+          "componentId": "east-tree-1",
+          "deltaE": 4.23
+        },
+        {
+          "componentId": "east-tree-2",
+          "deltaE": 4.23
+        },
+        {
+          "componentId": "east-shrubs",
+          "deltaE": 4.23
+        },
+        {
+          "componentId": "lamp-system",
+          "deltaE": 17.36
+        },
+        {
+          "componentId": "pedestrians",
+          "deltaE": 11.56
+        },
+        {
+          "componentId": "road-markings",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "campus-sign",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "roof-tiles",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "brick-joints",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "stone-joints",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "clock-marks",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "balustrade",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "window-mullions",
+          "deltaE": 6.11
+        },
+        {
+          "componentId": "west-rear-tree",
+          "deltaE": 4.23
+        },
+        {
+          "componentId": "east-rear-tree",
+          "deltaE": 4.23
+        }
+      ],
+      "gated": true
+    }
+  },
+  "failures": [
+    "max per-part color delta-E 24.27 exceeds threshold 20.0"
+  ],
+  "maskWarnings": [],
+  "renderHash": "c00ecda22926b7bd",
+  "passId": "material-pass"
+}
+STATUS pass=material-pass completed=3 blocked=none next=diagnose_render.py
