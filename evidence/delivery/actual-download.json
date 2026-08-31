@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "errors": 0,
+  "warnings": 0,
+  "bytes": 15868868,
+  "sha256": "3920a2c8cad094e684276829af4193d3630077ac475d61ee95c1e17c908772f3",
+  "savedSha256": "5cda40655917be8e8627d07bd2ec533b9839bc4f9131fa9f871aef632e0083d0",
+  "equalHierarchy": true,
+  "equalAssembly": true,
+  "triangles": 211654,
+  "components": 62,
+  "note": "Binary order/encoding may differ between exports; canonical component transforms, topology counts and validation are compared."
+}

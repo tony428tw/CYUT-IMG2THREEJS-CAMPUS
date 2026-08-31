@@ -1,0 +1,4967 @@
+{
+  "selfIntersecting": true,
+  "meshCount": 118,
+  "insideVertexCount": 548,
+  "undecidedVertexCount": 10,
+  "sampledVertexCount": 6796,
+  "totalVertexCount": 109415,
+  "meshes": [
+    {
+      "name": "plinth-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.03304073243913398,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "plinth-surface-2",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.03277143836408932,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "landscape-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.029744786925778265,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-wing-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.010746627108151666,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-wing-surface-2",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.008616414508192696,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "central-block-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.011700000102703391,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "central-block-surface-2",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0084606501804306,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "tower-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.00849014122700585,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "tower-surface-2",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.004144321350755141,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "stone-joints-joint-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 60,
+      "sampledVertexCount": 60,
+      "totalVertexCount": 480,
+      "samplingStride": 8,
+      "triangleCount": 240,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.00756047449438663,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "tower-roof-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 24,
+      "sampledVertexCount": 24,
+      "totalVertexCount": 24,
+      "samplingStride": 1,
+      "triangleCount": 12,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.004946352212682236,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "tower-roof-surface-2",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.004925261440628418,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "tower-roof-tileSeam-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 10,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 53,
+      "sampledVertexCount": 63,
+      "totalVertexCount": 2132,
+      "samplingStride": 34,
+      "triangleCount": 1968,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 0,
+          "position": [
+            1.4468437433242798,
+            0.1875,
+            -1.4766875505447388
+          ]
+        },
+        {
+          "vertexIndex": 102,
+          "position": [
+            1.434719443321228,
+            0.19449999928474426,
+            -1.4906874895095825
+          ]
+        },
+        {
+          "vertexIndex": 136,
+          "position": [
+            1.2436875104904175,
+            0.36500000953674316,
+            1.2673749923706055
+          ]
+        },
+        {
+          "vertexIndex": 408,
+          "position": [
+            0.8252506256103516,
+            0.7129999995231628,
+            0.8627499938011169
+          ]
+        },
+        {
+          "vertexIndex": 612,
+          "position": [
+            0.4310624897480011,
+            1.0750000476837158,
+            0.4441249966621399
+          ]
+        },
+        {
+          "vertexIndex": 680,
+          "position": [
+            -0.21578189730644226,
+            1.2595000267028809,
+            0.23481249809265137
+          ]
+        },
+        {
+          "vertexIndex": 816,
+          "position": [
+            -0.020377593114972115,
+            1.4312052726745605,
+            -0.020869450643658638
+          ]
+        },
+        {
+          "vertexIndex": 1224,
+          "position": [
+            0.0039490023627877235,
+            1.434567928314209,
+            0.029270082712173462
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.004946363586915785,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-roof-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 24,
+      "sampledVertexCount": 24,
+      "totalVertexCount": 24,
+      "samplingStride": 1,
+      "triangleCount": 12,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.009253242479948687,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-roof-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 112,
+      "samplingStride": 2,
+      "triangleCount": 216,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.009465327484936432,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-roof-tileSeam-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 5,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 59,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 3744,
+      "samplingStride": 59,
+      "triangleCount": 3456,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 0,
+          "position": [
+            3.4257500171661377,
+            0.17499999701976776,
+            -2.7362499237060547
+          ]
+        },
+        {
+          "vertexIndex": 177,
+          "position": [
+            -3.301500082015991,
+            0.3400000035762787,
+            -2.6505000591278076
+          ]
+        },
+        {
+          "vertexIndex": 295,
+          "position": [
+            3.165125608444214,
+            0.5120000243186951,
+            -2.5507500171661377
+          ]
+        },
+        {
+          "vertexIndex": 354,
+          "position": [
+            3.052999973297119,
+            0.6700000166893005,
+            2.437000036239624
+          ]
+        },
+        {
+          "vertexIndex": 472,
+          "position": [
+            -2.916625738143921,
+            0.8420000076293945,
+            2.351249933242798
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.009263043184855713,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "roof-tiles-roof-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 52,
+      "sampledVertexCount": 52,
+      "totalVertexCount": 52,
+      "samplingStride": 1,
+      "triangleCount": 48,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.007419915697216403,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "central-roof-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 24,
+      "sampledVertexCount": 24,
+      "totalVertexCount": 24,
+      "samplingStride": 1,
+      "triangleCount": 12,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.009185858587402009,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "central-roof-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 112,
+      "samplingStride": 2,
+      "triangleCount": 216,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.009399011946726212,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "central-roof-tileSeam-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 3,
+      "undecidedVertexCount": 1,
+      "outsideVertexCount": 60,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 3692,
+      "samplingStride": 58,
+      "triangleCount": 3408,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 0,
+          "position": [
+            3.359999895095825,
+            0.18000000715255737,
+            -2.7219998836517334
+          ]
+        },
+        {
+          "vertexIndex": 116,
+          "position": [
+            3.2200000286102295,
+            0.3499999940395355,
+            -2.6080000400543213
+          ]
+        },
+        {
+          "vertexIndex": 928,
+          "position": [
+            2.2278757095336914,
+            1.5329999923706055,
+            1.8240000009536743
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.009194933017059535,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "arcade-surface-5",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.008793747386393137,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "brick-joints-tileSeam-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 48,
+      "sampledVertexCount": 48,
+      "totalVertexCount": 48,
+      "samplingStride": 1,
+      "triangleCount": 24,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.00840270828465115,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "arcade-brick-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 1,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 63,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 3496,
+      "samplingStride": 55,
+      "triangleCount": 1896,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 3410,
+          "position": [
+            -4.210000038146973,
+            0.029999995604157448,
+            1.2699999809265137
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.00928243462460881,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "arcade-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 7,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 57,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 3998,
+      "samplingStride": 63,
+      "triangleCount": 5160,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 252,
+          "position": [
+            -1.6049998998641968,
+            1.409999966621399,
+            1.312000036239624
+          ]
+        },
+        {
+          "vertexIndex": 441,
+          "position": [
+            -3.995000123977661,
+            1.409999966621399,
+            1.312000036239624
+          ]
+        },
+        {
+          "vertexIndex": 693,
+          "position": [
+            -3.875,
+            1.3899999856948853,
+            1.4470000267028809
+          ]
+        },
+        {
+          "vertexIndex": 819,
+          "position": [
+            -1.620857834815979,
+            1.3899999856948853,
+            1.2628579139709473
+          ]
+        },
+        {
+          "vertexIndex": 2142,
+          "position": [
+            1.063452959060669,
+            1.4015470743179321,
+            1.2654529809951782
+          ]
+        },
+        {
+          "vertexIndex": 3276,
+          "position": [
+            1.7391421794891357,
+            1.404142141342163,
+            1.2769999504089355
+          ]
+        },
+        {
+          "vertexIndex": 3465,
+          "position": [
+            3.8550000190734863,
+            0.019999997690320015,
+            1.2769999504089355
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.009330178857236644,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "arcade-bark-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 168,
+      "samplingStride": 3,
+      "triangleCount": 324,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0075620388663588355,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "arcade-glass-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 60,
+      "sampledVertexCount": 60,
+      "totalVertexCount": 774,
+      "samplingStride": 13,
+      "triangleCount": 504,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.00721963375249787,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "arcade-roof-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 24,
+      "sampledVertexCount": 24,
+      "totalVertexCount": 24,
+      "samplingStride": 1,
+      "triangleCount": 12,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.009684265556098625,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "arcade-roof-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 112,
+      "samplingStride": 2,
+      "triangleCount": 216,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.00987410387320721,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "arcade-roof-tileSeam-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 3,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 61,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 3380,
+      "samplingStride": 53,
+      "triangleCount": 3120,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 0,
+          "position": [
+            4.300714492797852,
+            0.18857142329216003,
+            -1.586821436882019
+          ]
+        },
+        {
+          "vertexIndex": 159,
+          "position": [
+            -4.089304447174072,
+            0.36014285683631897,
+            -1.5266427993774414
+          ]
+        },
+        {
+          "vertexIndex": 265,
+          "position": [
+            -3.8900184631347656,
+            0.5527142882347107,
+            -1.4524643421173096
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.009693346895732447,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-turret-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.006136977982706423,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-turret-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 9,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 52,
+      "sampledVertexCount": 61,
+      "totalVertexCount": 848,
+      "samplingStride": 14,
+      "triangleCount": 1224,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 84,
+          "position": [
+            -0.17000000178813934,
+            -1.5850000381469727,
+            0.9125000238418579
+          ]
+        },
+        {
+          "vertexIndex": 112,
+          "position": [
+            -0.17000000178813934,
+            -1.375,
+            0.9125000238418579
+          ]
+        },
+        {
+          "vertexIndex": 126,
+          "position": [
+            -0.17000000178813934,
+            -1.375,
+            0.9125000238418579
+          ]
+        },
+        {
+          "vertexIndex": 364,
+          "position": [
+            0.17000000178813934,
+            -0.1850000023841858,
+            0.9125000238418579
+          ]
+        },
+        {
+          "vertexIndex": 378,
+          "position": [
+            0.17000000178813934,
+            0.02500000037252903,
+            0.9125000238418579
+          ]
+        },
+        {
+          "vertexIndex": 616,
+          "position": [
+            -0.17000000178813934,
+            1.215000033378601,
+            0.9125000238418579
+          ]
+        },
+        {
+          "vertexIndex": 630,
+          "position": [
+            -0.17000000178813934,
+            1.215000033378601,
+            0.9125000238418579
+          ]
+        },
+        {
+          "vertexIndex": 658,
+          "position": [
+            0.17000000178813934,
+            1.6449999809265137,
+            0.9125000238418579
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.005435956765316441,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-turret-glass-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 168,
+      "samplingStride": 3,
+      "triangleCount": 324,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0033106834160208003,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-turret-roof-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 24,
+      "sampledVertexCount": 24,
+      "totalVertexCount": 24,
+      "samplingStride": 1,
+      "triangleCount": 12,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.003390427822585216,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-turret-roof-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 112,
+      "samplingStride": 2,
+      "triangleCount": 216,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0036335141156914074,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-turret-roof-tileSeam-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 8,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 1716,
+      "samplingStride": 27,
+      "triangleCount": 1584,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 0,
+          "position": [
+            1.0069166421890259,
+            0.17666666209697723,
+            -0.9929166436195374
+          ]
+        },
+        {
+          "vertexIndex": 54,
+          "position": [
+            -0.9947922825813293,
+            0.16966666281223297,
+            1.0069166421890259
+          ]
+        },
+        {
+          "vertexIndex": 297,
+          "position": [
+            0.8586256504058838,
+            0.503000020980835,
+            -0.8707500100135803
+          ]
+        },
+        {
+          "vertexIndex": 324,
+          "position": [
+            0.8026666641235352,
+            0.6766666769981384,
+            -0.7886666655540466
+          ]
+        },
+        {
+          "vertexIndex": 540,
+          "position": [
+            -0.6664999723434448,
+            1.0099999904632568,
+            -0.6524999737739563
+          ]
+        },
+        {
+          "vertexIndex": 594,
+          "position": [
+            -0.6543756723403931,
+            1.0169999599456787,
+            -0.6664999723434448
+          ]
+        },
+        {
+          "vertexIndex": 729,
+          "position": [
+            -0.5303333401679993,
+            1.34333336353302,
+            -0.5163333415985107
+          ]
+        },
+        {
+          "vertexIndex": 783,
+          "position": [
+            -0.5182089805603027,
+            1.3363332748413086,
+            -0.5303333401679993
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0033789224195652163,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-arcade-surface-6",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.006616078803242832,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-arcade-brick-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 1,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 63,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 4768,
+      "samplingStride": 75,
+      "triangleCount": 2456,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 4725,
+          "position": [
+            3.301213264465332,
+            0.00878684502094984,
+            0.19500000774860382
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.007073337096573989,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-arcade-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 10,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 54,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 5312,
+      "samplingStride": 83,
+      "triangleCount": 6844,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 664,
+          "position": [
+            -3.1941421031951904,
+            1.41414213180542,
+            0.35199999809265137
+          ]
+        },
+        {
+          "vertexIndex": 830,
+          "position": [
+            -1.8741421699523926,
+            1.41414213180542,
+            0.2019999921321869
+          ]
+        },
+        {
+          "vertexIndex": 1162,
+          "position": [
+            -3.1089999675750732,
+            0.1002499982714653,
+            0.17249999940395355
+          ]
+        },
+        {
+          "vertexIndex": 2075,
+          "position": [
+            -1.3650000095367432,
+            0.09000000357627869,
+            0.19699999690055847
+          ]
+        },
+        {
+          "vertexIndex": 2490,
+          "position": [
+            -1.4589999914169312,
+            0.1002499982714653,
+            0.17249999940395355
+          ]
+        },
+        {
+          "vertexIndex": 3071,
+          "position": [
+            0.08999998867511749,
+            1.4199999570846558,
+            0.3269999921321869
+          ]
+        },
+        {
+          "vertexIndex": 3320,
+          "position": [
+            0.11999999731779099,
+            1.399999976158142,
+            0.3720000088214874
+          ]
+        },
+        {
+          "vertexIndex": 3486,
+          "position": [
+            1.440000057220459,
+            0.005857846699655056,
+            0.18785786628723145
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.007108093302380159,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-arcade-glass-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 61,
+      "sampledVertexCount": 61,
+      "totalVertexCount": 1032,
+      "samplingStride": 17,
+      "triangleCount": 672,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0064405527138975,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-windows-glass-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 60,
+      "sampledVertexCount": 60,
+      "totalVertexCount": 840,
+      "samplingStride": 14,
+      "triangleCount": 1620,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.007040112475441711,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-windows-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 10,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 54,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 3960,
+      "samplingStride": 62,
+      "triangleCount": 5580,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 310,
+          "position": [
+            -1.6950000524520874,
+            0.18950000405311584,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 620,
+          "position": [
+            0.375,
+            1.1154999732971191,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 868,
+          "position": [
+            0.9449999928474426,
+            1.1154999732971191,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 992,
+          "position": [
+            1.6649999618530273,
+            1.1104999780654907,
+            0.07500000298023224
+          ]
+        },
+        {
+          "vertexIndex": 1364,
+          "position": [
+            -2.265000104904175,
+            1.5728332996368408,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 1612,
+          "position": [
+            -1.6950000524520874,
+            1.5728332996368408,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 1922,
+          "position": [
+            0.375,
+            2.498833417892456,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 2170,
+          "position": [
+            1.6950000524520874,
+            2.0308332443237305,
+            0.012499998323619366
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.007270491650639975,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-piers-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 41,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 23,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 448,
+      "samplingStride": 7,
+      "triangleCount": 864,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 0,
+          "position": [
+            -3.210566282272339,
+            4.239433765411377,
+            0.09943375736474991
+          ]
+        },
+        {
+          "vertexIndex": 49,
+          "position": [
+            -3.2249999046325684,
+            4.224999904632568,
+            0.10999999940395355
+          ]
+        },
+        {
+          "vertexIndex": 84,
+          "position": [
+            -2.0694336891174316,
+            0.010566234588623047,
+            -0.09943375736474991
+          ]
+        },
+        {
+          "vertexIndex": 119,
+          "position": [
+            -0.567322313785553,
+            4.224999904632568,
+            -0.10267767310142517
+          ]
+        },
+        {
+          "vertexIndex": 154,
+          "position": [
+            -0.5849999785423279,
+            0.0073223114013671875,
+            0.10267767310142517
+          ]
+        },
+        {
+          "vertexIndex": 189,
+          "position": [
+            0.5600000023841858,
+            4.224999904632568,
+            0.08500000089406967
+          ]
+        },
+        {
+          "vertexIndex": 224,
+          "position": [
+            2.0694336891174316,
+            4.239433765411377,
+            0.09943375736474991
+          ]
+        },
+        {
+          "vertexIndex": 259,
+          "position": [
+            2.055000066757202,
+            4.25,
+            -0.08500000089406967
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.008141007549900006,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-dormers-stone-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 112,
+      "samplingStride": 2,
+      "triangleCount": 216,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0030328039804837174,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-dormers-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 8,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 640,
+      "samplingStride": 10,
+      "triangleCount": 960,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 90,
+          "position": [
+            -0.9449999928474426,
+            0.2317499965429306,
+            0.36250001192092896
+          ]
+        },
+        {
+          "vertexIndex": 100,
+          "position": [
+            -0.9449999928474426,
+            0.2317499965429306,
+            0.36250001192092896
+          ]
+        },
+        {
+          "vertexIndex": 130,
+          "position": [
+            -0.9449999928474426,
+            0.7942500114440918,
+            0.36250001192092896
+          ]
+        },
+        {
+          "vertexIndex": 150,
+          "position": [
+            -1.2549999952316284,
+            0.7942500114440918,
+            0.36250001192092896
+          ]
+        },
+        {
+          "vertexIndex": 410,
+          "position": [
+            1.2549999952316284,
+            0.2317499965429306,
+            0.36250001192092896
+          ]
+        },
+        {
+          "vertexIndex": 420,
+          "position": [
+            1.2549999952316284,
+            0.2317499965429306,
+            0.36250001192092896
+          ]
+        },
+        {
+          "vertexIndex": 450,
+          "position": [
+            1.2549999952316284,
+            0.7942500114440918,
+            0.36250001192092896
+          ]
+        },
+        {
+          "vertexIndex": 470,
+          "position": [
+            0.9449999928474426,
+            0.7942500114440918,
+            0.36250001192092896
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.003227472788440093,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-dormers-glass-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 112,
+      "samplingStride": 2,
+      "triangleCount": 216,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.002511569546126241,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-parapets-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 18,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 45,
+      "sampledVertexCount": 63,
+      "totalVertexCount": 560,
+      "samplingStride": 9,
+      "triangleCount": 1080,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 9,
+          "position": [
+            2.299999952316284,
+            -0.08500000089406967,
+            -1.7549999952316284
+          ]
+        },
+        {
+          "vertexIndex": 27,
+          "position": [
+            -2.291213274002075,
+            -0.08500000089406967,
+            -1.7337868213653564
+          ]
+        },
+        {
+          "vertexIndex": 225,
+          "position": [
+            2.291213274002075,
+            0.08500000089406967,
+            1.9662132263183594
+          ]
+        },
+        {
+          "vertexIndex": 252,
+          "position": [
+            -2.287320613861084,
+            -0.10232050716876984,
+            1.7376794815063477
+          ]
+        },
+        {
+          "vertexIndex": 270,
+          "position": [
+            -2.2699999809265137,
+            -0.10621320456266403,
+            1.7337868213653564
+          ]
+        },
+        {
+          "vertexIndex": 450,
+          "position": [
+            -2.1837868690490723,
+            0.11121319979429245,
+            1.8200000524520874
+          ]
+        },
+        {
+          "vertexIndex": 468,
+          "position": [
+            -2.416213274002075,
+            0.11121319979429245,
+            1.8200000524520874
+          ]
+        },
+        {
+          "vertexIndex": 504,
+          "position": [
+            2.412320613861084,
+            0.10732050985097885,
+            1.8373205661773682
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.006791607084726275,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-side-windows-glass-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 63,
+      "sampledVertexCount": 63,
+      "totalVertexCount": 504,
+      "samplingStride": 8,
+      "triangleCount": 972,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.005592199740883134,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-side-windows-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 7,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 63,
+      "totalVertexCount": 2376,
+      "samplingStride": 38,
+      "triangleCount": 3348,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 76,
+          "position": [
+            -2.1083333492279053,
+            1.1154999732971191,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 836,
+          "position": [
+            -1.3583333492279053,
+            1.5728332996368408,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 1102,
+          "position": [
+            -0.375,
+            1.5728332996368408,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 1520,
+          "position": [
+            2.0783333778381348,
+            2.493833303451538,
+            0.07500000298023224
+          ]
+        },
+        {
+          "vertexIndex": 1634,
+          "position": [
+            -1.3583333492279053,
+            3.4141666889190674,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 1900,
+          "position": [
+            -0.375,
+            3.4141666889190674,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 2204,
+          "position": [
+            2.1083333492279053,
+            3.882166624069214,
+            0.012499998323619366
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.005817578940583236,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "east-arcade-brick-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 1,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 63,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 4768,
+      "samplingStride": 75,
+      "triangleCount": 2456,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 4725,
+          "position": [
+            3.301213264465332,
+            0.00878684502094984,
+            0.19500000774860382
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.007073337096573989,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "window-mullions-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 60,
+      "sampledVertexCount": 60,
+      "totalVertexCount": 360,
+      "samplingStride": 6,
+      "triangleCount": 180,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.00648565626419301,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "central-windows-glass-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 62,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 672,
+      "samplingStride": 11,
+      "triangleCount": 1296,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0067580935149233615,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "central-windows-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 8,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 3168,
+      "samplingStride": 50,
+      "triangleCount": 4464,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 50,
+          "position": [
+            -1.875,
+            0.7450000047683716,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 200,
+          "position": [
+            -1.9049999713897705,
+            1.2860000133514404,
+            0.07500000298023224
+          ]
+        },
+        {
+          "vertexIndex": 850,
+          "position": [
+            2.625,
+            0.7450000047683716,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 1100,
+          "position": [
+            -1.875,
+            1.809000015258789,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 1150,
+          "position": [
+            -2.625,
+            2.8910000324249268,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 1900,
+          "position": [
+            1.875,
+            2.3450000286102295,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 2450,
+          "position": [
+            -0.375,
+            4.491000175476074,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 2950,
+          "position": [
+            1.875,
+            3.4089999198913574,
+            0.012499998323619366
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.006984721978561217,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "tower-clock-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.002495515965774663,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "tower-clock-surface-2",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 59,
+      "sampledVertexCount": 59,
+      "totalVertexCount": 292,
+      "samplingStride": 5,
+      "triangleCount": 192,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.001796849601800014,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "tower-clock-surface-3",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 63,
+      "sampledVertexCount": 63,
+      "totalVertexCount": 441,
+      "samplingStride": 7,
+      "triangleCount": 768,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.001955117039051223,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "clock-marks-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 50,
+      "sampledVertexCount": 50,
+      "totalVertexCount": 50,
+      "samplingStride": 1,
+      "triangleCount": 20,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.001973989358844961,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "clock-marks-bark-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 64,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 1152,
+      "samplingStride": 18,
+      "triangleCount": 576,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0016233750042475487,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "tower-clock-metal-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 3,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 55,
+      "sampledVertexCount": 58,
+      "totalVertexCount": 462,
+      "samplingStride": 8,
+      "triangleCount": 480,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 296,
+          "position": [
+            -0.014776002615690231,
+            -0.012310839258134365,
+            0.2508639693260193
+          ]
+        },
+        {
+          "vertexIndex": 400,
+          "position": [
+            0.0,
+            0.054999999701976776,
+            0.24500000476837158
+          ]
+        },
+        {
+          "vertexIndex": 440,
+          "position": [
+            -0.04338032752275467,
+            -0.012238651514053345,
+            0.23067378997802734
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0016333374888063432,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "tower-window-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 1,
+      "outsideVertexCount": 51,
+      "sampledVertexCount": 52,
+      "totalVertexCount": 258,
+      "samplingStride": 5,
+      "triangleCount": 168,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0025082314049276514,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "tower-window-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 12,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 49,
+      "sampledVertexCount": 61,
+      "totalVertexCount": 486,
+      "samplingStride": 8,
+      "triangleCount": 696,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 176,
+          "position": [
+            0.5400000214576721,
+            -1.0850000381469727,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 184,
+          "position": [
+            0.5400000214576721,
+            -1.0850000381469727,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 200,
+          "position": [
+            0.5400000214576721,
+            0.02500000037252903,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 208,
+          "position": [
+            0.5400000214576721,
+            0.02500000037252903,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 392,
+          "position": [
+            0.5,
+            -0.7335000038146973,
+            0.020000001415610313
+          ]
+        },
+        {
+          "vertexIndex": 400,
+          "position": [
+            0.5,
+            -0.7335000038146973,
+            0.020000001415610313
+          ]
+        },
+        {
+          "vertexIndex": 416,
+          "position": [
+            0.5,
+            -0.23350000381469727,
+            0.020000001415610313
+          ]
+        },
+        {
+          "vertexIndex": 424,
+          "position": [
+            0.5,
+            -0.23350000381469727,
+            0.020000001415610313
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0027670869958525846,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "tower-lower-window-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0010665406871442293,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "tower-lower-window-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 10,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 43,
+      "sampledVertexCount": 53,
+      "totalVertexCount": 264,
+      "samplingStride": 5,
+      "triangleCount": 372,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 45,
+          "position": [
+            0.375,
+            0.1185000017285347,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 50,
+          "position": [
+            0.375,
+            0.5425000190734863,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 70,
+          "position": [
+            -0.375,
+            0.5425000190734863,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 75,
+          "position": [
+            0.375,
+            0.8765000104904175,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 80,
+          "position": [
+            -0.375,
+            0.9265000224113464,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 85,
+          "position": [
+            -0.375,
+            0.8765000104904175,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 95,
+          "position": [
+            -0.375,
+            0.8765000104904175,
+            0.012499998323619366
+          ]
+        },
+        {
+          "vertexIndex": 145,
+          "position": [
+            -0.3449999988079071,
+            0.921500027179718,
+            0.07500000298023224
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0012948915169743835,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "balcony-upper-arches-surface-3",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.004006869179022713,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "balustrade-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 112,
+      "samplingStride": 2,
+      "triangleCount": 216,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0036959783744076142,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "balcony-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 25,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 34,
+      "sampledVertexCount": 59,
+      "totalVertexCount": 644,
+      "samplingStride": 11,
+      "triangleCount": 876,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 121,
+          "position": [
+            1.8250000476837158,
+            1.9299999475479126,
+            0.7950000166893005
+          ]
+        },
+        {
+          "vertexIndex": 165,
+          "position": [
+            -1.7949999570846558,
+            2.049999952316284,
+            -0.824999988079071
+          ]
+        },
+        {
+          "vertexIndex": 264,
+          "position": [
+            -1.2665499448776245,
+            0.9000000357627869,
+            0.824999988079071
+          ]
+        },
+        {
+          "vertexIndex": 319,
+          "position": [
+            -0.8283006548881531,
+            0.9000000357627869,
+            0.8125
+          ]
+        },
+        {
+          "vertexIndex": 352,
+          "position": [
+            -0.5983506441116333,
+            0.5400000214576721,
+            0.8125
+          ]
+        },
+        {
+          "vertexIndex": 484,
+          "position": [
+            0.13115063309669495,
+            0.5400000214576721,
+            0.8125
+          ]
+        },
+        {
+          "vertexIndex": 528,
+          "position": [
+            0.5694000124931335,
+            0.9000000357627869,
+            0.824999988079071
+          ]
+        },
+        {
+          "vertexIndex": 583,
+          "position": [
+            1.0076494216918945,
+            0.9000000357627869,
+            0.8125
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.00464053075356004,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "balcony-stone-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 7,
+      "undecidedVertexCount": 1,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 2408,
+      "samplingStride": 38,
+      "triangleCount": 1552,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 114,
+          "position": [
+            -1.6425000429153442,
+            0.5,
+            0.36500000953674316
+          ]
+        },
+        {
+          "vertexIndex": 228,
+          "position": [
+            -1.5877354145050049,
+            1.1693973541259766,
+            0.38499999046325684
+          ]
+        },
+        {
+          "vertexIndex": 266,
+          "position": [
+            -1.5451009273529053,
+            1.2723262310028076,
+            0.38499999046325684
+          ]
+        },
+        {
+          "vertexIndex": 2090,
+          "position": [
+            1.622499942779541,
+            0.949607253074646,
+            0.38499999046325684
+          ]
+        },
+        {
+          "vertexIndex": 2128,
+          "position": [
+            1.839142084121704,
+            0.48585787415504456,
+            0.3708578646183014
+          ]
+        },
+        {
+          "vertexIndex": 2204,
+          "position": [
+            -1.8262132406234741,
+            1.9412132501602173,
+            0.7950000166893005
+          ]
+        },
+        {
+          "vertexIndex": 2242,
+          "position": [
+            1.8262132406234741,
+            1.9412132501602173,
+            0.7950000166893005
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.004458231094680389,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "stairs-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 12,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 51,
+      "sampledVertexCount": 63,
+      "totalVertexCount": 504,
+      "samplingStride": 8,
+      "triangleCount": 972,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 64,
+          "position": [
+            2.0947279930114746,
+            0.01799999736249447,
+            1.0058389902114868
+          ]
+        },
+        {
+          "vertexIndex": 88,
+          "position": [
+            -2.0820000171661377,
+            0.25250568985939026,
+            -1.2947279214859009
+          ]
+        },
+        {
+          "vertexIndex": 96,
+          "position": [
+            -2.0820000171661377,
+            0.00527207413688302,
+            1.0058389902114868
+          ]
+        },
+        {
+          "vertexIndex": 176,
+          "position": [
+            2.0947279930114746,
+            0.018000004813075066,
+            0.42806124687194824
+          ]
+        },
+        {
+          "vertexIndex": 200,
+          "position": [
+            -2.0820000171661377,
+            0.5102834701538086,
+            -1.2947279214859009
+          ]
+        },
+        {
+          "vertexIndex": 208,
+          "position": [
+            -2.0820000171661377,
+            0.00527208810672164,
+            0.42806124687194824
+          ]
+        },
+        {
+          "vertexIndex": 288,
+          "position": [
+            2.0947279930114746,
+            0.017999988049268723,
+            -0.14971651136875153
+          ]
+        },
+        {
+          "vertexIndex": 312,
+          "position": [
+            -2.0820000171661377,
+            0.7680612802505493,
+            -1.2947279214859009
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.005074012068270049,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "stairs-stone-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 64,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 448,
+      "samplingStride": 7,
+      "triangleCount": 864,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.00557875445747155,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "pavement-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.027053777927692185,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "pavement-joint-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 64,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 1344,
+      "samplingStride": 21,
+      "triangleCount": 672,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.02705346625041035,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "road-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.026860445992846496,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "roof-dormers-stone-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 224,
+      "samplingStride": 4,
+      "triangleCount": 432,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.005676425100256022,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "roof-dormers-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 4,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 60,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 1280,
+      "samplingStride": 20,
+      "triangleCount": 1920,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 100,
+          "position": [
+            -2.365000009536743,
+            0.19259999692440033,
+            0.36250001192092896
+          ]
+        },
+        {
+          "vertexIndex": 420,
+          "position": [
+            -0.6850000023841858,
+            0.19259999692440033,
+            0.36250001192092896
+          ]
+        },
+        {
+          "vertexIndex": 740,
+          "position": [
+            0.9950000047683716,
+            0.19259999692440033,
+            0.36250001192092896
+          ]
+        },
+        {
+          "vertexIndex": 1060,
+          "position": [
+            2.674999952316284,
+            0.19259999692440033,
+            0.36250001192092896
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.005877641074152909,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "roof-dormers-glass-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 224,
+      "samplingStride": 4,
+      "triangleCount": 432,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.005292464528250448,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "central-parapet-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 18,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 45,
+      "sampledVertexCount": 63,
+      "totalVertexCount": 560,
+      "samplingStride": 9,
+      "triangleCount": 1080,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 9,
+          "position": [
+            2.200000047683716,
+            -0.08500000089406967,
+            -1.7050000429153442
+          ]
+        },
+        {
+          "vertexIndex": 27,
+          "position": [
+            -2.1912131309509277,
+            -0.08500000089406967,
+            -1.6837867498397827
+          ]
+        },
+        {
+          "vertexIndex": 225,
+          "position": [
+            2.1912131309509277,
+            0.08500000089406967,
+            1.9162131547927856
+          ]
+        },
+        {
+          "vertexIndex": 252,
+          "position": [
+            -2.1873204708099365,
+            -0.10232050716876984,
+            1.6876795291900635
+          ]
+        },
+        {
+          "vertexIndex": 270,
+          "position": [
+            -2.1700000762939453,
+            -0.10621320456266403,
+            1.6837867498397827
+          ]
+        },
+        {
+          "vertexIndex": 450,
+          "position": [
+            -2.083786725997925,
+            0.11121319979429245,
+            1.7699999809265137
+          ]
+        },
+        {
+          "vertexIndex": 468,
+          "position": [
+            -2.3162131309509277,
+            0.11121319979429245,
+            1.7699999809265137
+          ]
+        },
+        {
+          "vertexIndex": 504,
+          "position": [
+            2.3123204708099365,
+            0.10732050985097885,
+            1.7873204946517944
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.006574186298598305,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "front-plaque-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.00576358376351992,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "front-plaque-surface-2",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.005540740024791222,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-hedges-trim-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 22,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 42,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 2744,
+      "samplingStride": 43,
+      "triangleCount": 5292,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 0,
+          "position": [
+            -3.0938119888305664,
+            0.09118802100419998,
+            -0.788811981678009
+          ]
+        },
+        {
+          "vertexIndex": 172,
+          "position": [
+            -3.1235413551330566,
+            0.1015685424208641,
+            -0.5946789383888245
+          ]
+        },
+        {
+          "vertexIndex": 258,
+          "position": [
+            -3.200075149536133,
+            0.1015685424208641,
+            -0.4323353171348572
+          ]
+        },
+        {
+          "vertexIndex": 344,
+          "position": [
+            -3.1768102645874023,
+            -0.04500000178813934,
+            0.3419494032859802
+          ]
+        },
+        {
+          "vertexIndex": 602,
+          "position": [
+            -3.1927449703216553,
+            -0.1015685424208641,
+            0.8849788904190063
+          ]
+        },
+        {
+          "vertexIndex": 731,
+          "position": [
+            -2.731220006942749,
+            0.04500000178813934,
+            0.9999749064445496
+          ]
+        },
+        {
+          "vertexIndex": 1032,
+          "position": [
+            -2.051888942718506,
+            -0.04500000178813934,
+            0.9900232553482056
+          ]
+        },
+        {
+          "vertexIndex": 1720,
+          "position": [
+            2.156609296798706,
+            -0.1015685424208641,
+            1.3058624267578125
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0072517515947816275,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-hedges-grass-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 25,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 39,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 3094,
+      "samplingStride": 49,
+      "triangleCount": 5988,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 147,
+          "position": [
+            -3.3500635623931885,
+            0.42455795407295227,
+            -0.3503795564174652
+          ]
+        },
+        {
+          "vertexIndex": 392,
+          "position": [
+            -3.5410842895507812,
+            0.5769261121749878,
+            0.014943215996026993
+          ]
+        },
+        {
+          "vertexIndex": 882,
+          "position": [
+            -2.6121785640716553,
+            0.5769261121749878,
+            1.2245641946792603
+          ]
+        },
+        {
+          "vertexIndex": 1127,
+          "position": [
+            -2.1430256366729736,
+            0.5769261121749878,
+            1.3170294761657715
+          ]
+        },
+        {
+          "vertexIndex": 1519,
+          "position": [
+            -0.0966939702630043,
+            0.2554420530796051,
+            1.4077348709106445
+          ]
+        },
+        {
+          "vertexIndex": 1862,
+          "position": [
+            2.1102423667907715,
+            0.6823681592941284,
+            1.236104965209961
+          ]
+        },
+        {
+          "vertexIndex": 2009,
+          "position": [
+            2.7889068126678467,
+            0.42455795407295227,
+            1.2429084777832031
+          ]
+        },
+        {
+          "vertexIndex": 2450,
+          "position": [
+            2.806203603744507,
+            0.2554420530796051,
+            0.549346923828125
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.007747611053344097,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-tree-0-bark-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 19,
+      "undecidedVertexCount": 1,
+      "outsideVertexCount": 34,
+      "sampledVertexCount": 54,
+      "totalVertexCount": 266,
+      "samplingStride": 5,
+      "triangleCount": 252,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 45,
+          "position": [
+            0.10392304509878159,
+            2.1633031368255615,
+            -0.04153115302324295
+          ]
+        },
+        {
+          "vertexIndex": 70,
+          "position": [
+            0.10392304509878159,
+            2.1633031368255615,
+            -0.04153115302324295
+          ]
+        },
+        {
+          "vertexIndex": 85,
+          "position": [
+            0.017989937216043472,
+            2.617980480194092,
+            -0.08759704232215881
+          ]
+        },
+        {
+          "vertexIndex": 110,
+          "position": [
+            -0.052566878497600555,
+            2.657996416091919,
+            -0.10018201917409897
+          ]
+        },
+        {
+          "vertexIndex": 125,
+          "position": [
+            -0.031531158834695816,
+            3.2536134719848633,
+            -0.1135985404253006
+          ]
+        },
+        {
+          "vertexIndex": 150,
+          "position": [
+            -0.08151983469724655,
+            3.189720630645752,
+            0.017617974430322647
+          ]
+        },
+        {
+          "vertexIndex": 165,
+          "position": [
+            -0.07485561817884445,
+            3.939871311187744,
+            -0.03771963715553284
+          ]
+        },
+        {
+          "vertexIndex": 185,
+          "position": [
+            0.04984353855252266,
+            3.880000352859497,
+            -0.10601700097322464
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.006255419082813065,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-tree-0-foliage-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 9,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 55,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 2976,
+      "samplingStride": 47,
+      "triangleCount": 5760,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 235,
+          "position": [
+            -0.5183273553848267,
+            2.738013505935669,
+            1.1466199159622192
+          ]
+        },
+        {
+          "vertexIndex": 611,
+          "position": [
+            0.28269368410110474,
+            3.221670627593994,
+            -1.1498427391052246
+          ]
+        },
+        {
+          "vertexIndex": 1269,
+          "position": [
+            -1.8144023418426514,
+            4.3416571617126465,
+            0.08987880498170853
+          ]
+        },
+        {
+          "vertexIndex": 1316,
+          "position": [
+            0.04514966905117035,
+            4.317986488342285,
+            0.7809309959411621
+          ]
+        },
+        {
+          "vertexIndex": 1457,
+          "position": [
+            -0.360755980014801,
+            4.030343055725098,
+            0.7043426632881165
+          ]
+        },
+        {
+          "vertexIndex": 1833,
+          "position": [
+            0.07741359621286392,
+            4.60834264755249,
+            0.8263961672782898
+          ]
+        },
+        {
+          "vertexIndex": 2209,
+          "position": [
+            0.29105737805366516,
+            5.186342716217041,
+            -1.7288645505905151
+          ]
+        },
+        {
+          "vertexIndex": 2397,
+          "position": [
+            -0.007642113137990236,
+            5.210013389587402,
+            0.23672114312648773
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.006717435149327654,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-tree-0-leafLight-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 5,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 57,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 1488,
+      "samplingStride": 24,
+      "triangleCount": 2880,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 96,
+          "position": [
+            0.8404451608657837,
+            2.7143428325653076,
+            1.1446255445480347
+          ]
+        },
+        {
+          "vertexIndex": 168,
+          "position": [
+            0.8163893818855286,
+            2.5780134201049805,
+            1.062909722328186
+          ]
+        },
+        {
+          "vertexIndex": 336,
+          "position": [
+            0.39371830224990845,
+            3.443657159805298,
+            -0.1474783718585968
+          ]
+        },
+        {
+          "vertexIndex": 384,
+          "position": [
+            -0.30243584513664246,
+            3.579986572265625,
+            -0.1414995938539505
+          ]
+        },
+        {
+          "vertexIndex": 528,
+          "position": [
+            -1.1059726476669312,
+            3.870342969894409,
+            -0.5555732846260071
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.005178829313870499,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-tree-1-bark-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 19,
+      "undecidedVertexCount": 1,
+      "outsideVertexCount": 34,
+      "sampledVertexCount": 54,
+      "totalVertexCount": 266,
+      "samplingStride": 5,
+      "triangleCount": 252,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 45,
+          "position": [
+            0.10392304509878159,
+            2.003303050994873,
+            -0.04153115302324295
+          ]
+        },
+        {
+          "vertexIndex": 70,
+          "position": [
+            0.10392304509878159,
+            2.003303050994873,
+            -0.04153115302324295
+          ]
+        },
+        {
+          "vertexIndex": 85,
+          "position": [
+            0.017989937216043472,
+            2.423980474472046,
+            -0.08759704232215881
+          ]
+        },
+        {
+          "vertexIndex": 110,
+          "position": [
+            -0.052566878497600555,
+            2.463996410369873,
+            -0.10018201917409897
+          ]
+        },
+        {
+          "vertexIndex": 125,
+          "position": [
+            -0.031531158834695816,
+            3.02561354637146,
+            -0.1135985404253006
+          ]
+        },
+        {
+          "vertexIndex": 150,
+          "position": [
+            -0.08151983469724655,
+            2.9617207050323486,
+            0.017617974430322647
+          ]
+        },
+        {
+          "vertexIndex": 165,
+          "position": [
+            -0.07485561817884445,
+            3.6778712272644043,
+            -0.03771963715553284
+          ]
+        },
+        {
+          "vertexIndex": 185,
+          "position": [
+            0.04984353855252266,
+            3.6180002689361572,
+            -0.10601700097322464
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.005947828371013757,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-tree-1-foliage-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 10,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 54,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 2976,
+      "samplingStride": 47,
+      "triangleCount": 5760,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 235,
+          "position": [
+            -0.5183273553848267,
+            2.5780134201049805,
+            1.1466199159622192
+          ]
+        },
+        {
+          "vertexIndex": 376,
+          "position": [
+            -0.4871065616607666,
+            3.256329298019409,
+            0.19462087750434875
+          ]
+        },
+        {
+          "vertexIndex": 611,
+          "position": [
+            0.28269368410110474,
+            3.0276706218719482,
+            -1.1498427391052246
+          ]
+        },
+        {
+          "vertexIndex": 1269,
+          "position": [
+            -1.8144023418426514,
+            4.113656997680664,
+            0.08987880498170853
+          ]
+        },
+        {
+          "vertexIndex": 1316,
+          "position": [
+            0.04514966905117035,
+            4.089986324310303,
+            0.7809309959411621
+          ]
+        },
+        {
+          "vertexIndex": 1457,
+          "position": [
+            -0.360755980014801,
+            3.8023428916931152,
+            0.7043426632881165
+          ]
+        },
+        {
+          "vertexIndex": 1833,
+          "position": [
+            0.07741359621286392,
+            4.346343040466309,
+            0.8263961672782898
+          ]
+        },
+        {
+          "vertexIndex": 2209,
+          "position": [
+            0.29105737805366516,
+            4.890342712402344,
+            -1.7288645505905151
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.006616074076455389,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-tree-1-leafLight-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 5,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 57,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 1488,
+      "samplingStride": 24,
+      "triangleCount": 2880,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 96,
+          "position": [
+            0.8404451608657837,
+            2.5543429851531982,
+            1.1446255445480347
+          ]
+        },
+        {
+          "vertexIndex": 168,
+          "position": [
+            0.8163893818855286,
+            2.418013572692871,
+            1.062909722328186
+          ]
+        },
+        {
+          "vertexIndex": 336,
+          "position": [
+            0.39371830224990845,
+            3.249657154083252,
+            -0.1474783718585968
+          ]
+        },
+        {
+          "vertexIndex": 384,
+          "position": [
+            -0.30243584513664246,
+            3.385986566543579,
+            -0.1414995938539505
+          ]
+        },
+        {
+          "vertexIndex": 528,
+          "position": [
+            -1.1059726476669312,
+            3.6423428058624268,
+            -0.5555732846260071
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.005063138768328332,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-tree-2-bark-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 21,
+      "undecidedVertexCount": 1,
+      "outsideVertexCount": 32,
+      "sampledVertexCount": 54,
+      "totalVertexCount": 266,
+      "samplingStride": 5,
+      "triangleCount": 252,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 45,
+          "position": [
+            0.10392304509878159,
+            1.483303189277649,
+            -0.04153115302324295
+          ]
+        },
+        {
+          "vertexIndex": 70,
+          "position": [
+            0.10392304509878159,
+            1.483303189277649,
+            -0.04153115302324295
+          ]
+        },
+        {
+          "vertexIndex": 85,
+          "position": [
+            0.017989937216043472,
+            1.7934805154800415,
+            -0.08759704232215881
+          ]
+        },
+        {
+          "vertexIndex": 110,
+          "position": [
+            -0.052566878497600555,
+            1.8334964513778687,
+            -0.10018201917409897
+          ]
+        },
+        {
+          "vertexIndex": 125,
+          "position": [
+            -0.031531158834695816,
+            2.2846133708953857,
+            -0.1135985404253006
+          ]
+        },
+        {
+          "vertexIndex": 150,
+          "position": [
+            -0.08151983469724655,
+            2.2207207679748535,
+            0.017617974430322647
+          ]
+        },
+        {
+          "vertexIndex": 165,
+          "position": [
+            -0.07485561817884445,
+            2.826371192932129,
+            -0.03771963715553284
+          ]
+        },
+        {
+          "vertexIndex": 185,
+          "position": [
+            0.04984353855252266,
+            2.766500234603882,
+            -0.10601700097322464
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.004968059377380456,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-tree-2-foliage-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 13,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 51,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 2976,
+      "samplingStride": 47,
+      "triangleCount": 5760,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 235,
+          "position": [
+            -0.5183273553848267,
+            2.058013439178467,
+            1.1466199159622192
+          ]
+        },
+        {
+          "vertexIndex": 376,
+          "position": [
+            -0.4871065616607666,
+            2.7363293170928955,
+            0.19462087750434875
+          ]
+        },
+        {
+          "vertexIndex": 611,
+          "position": [
+            0.28269368410110474,
+            2.3971705436706543,
+            -1.1498427391052246
+          ]
+        },
+        {
+          "vertexIndex": 1269,
+          "position": [
+            -1.8144023418426514,
+            3.372657060623169,
+            0.08987880498170853
+          ]
+        },
+        {
+          "vertexIndex": 1316,
+          "position": [
+            0.04514966905117035,
+            3.3489866256713867,
+            0.7809309959411621
+          ]
+        },
+        {
+          "vertexIndex": 1457,
+          "position": [
+            -0.360755980014801,
+            3.06134295463562,
+            0.7043426632881165
+          ]
+        },
+        {
+          "vertexIndex": 1551,
+          "position": [
+            -0.4150153696537018,
+            3.8768293857574463,
+            0.5774356126785278
+          ]
+        },
+        {
+          "vertexIndex": 1786,
+          "position": [
+            0.7376693487167358,
+            3.5185134410858154,
+            -0.5350374579429626
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.006307078531693535,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-tree-2-leafLight-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 6,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 1488,
+      "samplingStride": 24,
+      "triangleCount": 2880,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 96,
+          "position": [
+            0.8404451608657837,
+            2.0343427658081055,
+            1.1446255445480347
+          ]
+        },
+        {
+          "vertexIndex": 168,
+          "position": [
+            0.8163893818855286,
+            1.8980134725570679,
+            1.062909722328186
+          ]
+        },
+        {
+          "vertexIndex": 336,
+          "position": [
+            0.39371830224990845,
+            2.619157075881958,
+            -0.1474783718585968
+          ]
+        },
+        {
+          "vertexIndex": 360,
+          "position": [
+            -0.2492588311433792,
+            2.3315134048461914,
+            -0.33129796385765076
+          ]
+        },
+        {
+          "vertexIndex": 384,
+          "position": [
+            -0.30243584513664246,
+            2.755486488342285,
+            -0.1414995938539505
+          ]
+        },
+        {
+          "vertexIndex": 528,
+          "position": [
+            -1.1059726476669312,
+            2.9013428688049316,
+            -0.5555732846260071
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0047099499912273786,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-shrubs-foliage-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 5,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 57,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 496,
+      "samplingStride": 8,
+      "triangleCount": 960,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 272,
+          "position": [
+            -1.392255187034607,
+            1.3012067079544067,
+            0.1958082914352417
+          ]
+        },
+        {
+          "vertexIndex": 360,
+          "position": [
+            -1.7933082580566406,
+            1.1904832124710083,
+            -0.036327265202999115
+          ]
+        },
+        {
+          "vertexIndex": 368,
+          "position": [
+            -1.4330098628997803,
+            1.1016899347305298,
+            -0.01709783636033535
+          ]
+        },
+        {
+          "vertexIndex": 376,
+          "position": [
+            2.0291645526885986,
+            1.5183100700378418,
+            -0.015162764117121696
+          ]
+        },
+        {
+          "vertexIndex": 472,
+          "position": [
+            2.1455702781677246,
+            1.3187932968139648,
+            -0.22806890308856964
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0062184074684066264,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-shrubs-rose-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 62,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 372,
+      "samplingStride": 6,
+      "triangleCount": 720,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.006483177394852503,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-shrubs-grass-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 62,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 496,
+      "samplingStride": 8,
+      "triangleCount": 960,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.007033987772951507,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-shrubs-bark-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 38,
+      "sampledVertexCount": 38,
+      "totalVertexCount": 76,
+      "samplingStride": 2,
+      "triangleCount": 72,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0039053129127815563,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-shrubs-leafLight-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 16,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 46,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 372,
+      "samplingStride": 6,
+      "triangleCount": 720,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 12,
+          "position": [
+            -2.1174607276916504,
+            1.349516749382019,
+            0.25
+          ]
+        },
+        {
+          "vertexIndex": 30,
+          "position": [
+            -2.1207046508789062,
+            1.2212066650390625,
+            0.015050224028527737
+          ]
+        },
+        {
+          "vertexIndex": 90,
+          "position": [
+            -1.9271761178970337,
+            1.381206750869751,
+            -0.3582819700241089
+          ]
+        },
+        {
+          "vertexIndex": 108,
+          "position": [
+            -1.7013118267059326,
+            1.1104832887649536,
+            0.021874746307730675
+          ]
+        },
+        {
+          "vertexIndex": 198,
+          "position": [
+            1.38253915309906,
+            1.349516749382019,
+            0.25
+          ]
+        },
+        {
+          "vertexIndex": 216,
+          "position": [
+            1.3792953491210938,
+            1.2212066650390625,
+            0.015050224028527737
+          ]
+        },
+        {
+          "vertexIndex": 276,
+          "position": [
+            1.5728238821029663,
+            1.381206750869751,
+            -0.3582819700241089
+          ]
+        },
+        {
+          "vertexIndex": 294,
+          "position": [
+            1.7986881732940674,
+            1.1104832887649536,
+            0.021874746307730675
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.00499224611801701,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "east-tree-0-bark-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 18,
+      "undecidedVertexCount": 1,
+      "outsideVertexCount": 35,
+      "sampledVertexCount": 54,
+      "totalVertexCount": 266,
+      "samplingStride": 5,
+      "triangleCount": 252,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 45,
+          "position": [
+            0.10392304509878159,
+            2.563303232192993,
+            -0.04153115302324295
+          ]
+        },
+        {
+          "vertexIndex": 70,
+          "position": [
+            0.10392304509878159,
+            2.563303232192993,
+            -0.04153115302324295
+          ]
+        },
+        {
+          "vertexIndex": 85,
+          "position": [
+            0.017989937216043472,
+            3.102980613708496,
+            -0.08759704232215881
+          ]
+        },
+        {
+          "vertexIndex": 110,
+          "position": [
+            -0.052566878497600555,
+            3.142996311187744,
+            -0.10018201917409897
+          ]
+        },
+        {
+          "vertexIndex": 125,
+          "position": [
+            -0.031531158834695816,
+            3.823613405227661,
+            -0.1135985404253006
+          ]
+        },
+        {
+          "vertexIndex": 150,
+          "position": [
+            -0.08151983469724655,
+            3.75972056388855,
+            0.017617974430322647
+          ]
+        },
+        {
+          "vertexIndex": 165,
+          "position": [
+            -0.07485561817884445,
+            4.5948710441589355,
+            -0.03771963715553284
+          ]
+        },
+        {
+          "vertexIndex": 185,
+          "position": [
+            0.04984353855252266,
+            4.535000324249268,
+            -0.10601700097322464
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.007033289559708556,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "east-tree-0-foliage-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 9,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 55,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 2976,
+      "samplingStride": 47,
+      "triangleCount": 5760,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 235,
+          "position": [
+            -0.5183273553848267,
+            3.1380133628845215,
+            1.1466199159622192
+          ]
+        },
+        {
+          "vertexIndex": 611,
+          "position": [
+            0.28269368410110474,
+            3.7066705226898193,
+            -1.1498427391052246
+          ]
+        },
+        {
+          "vertexIndex": 1081,
+          "position": [
+            0.25117027759552,
+            4.751657009124756,
+            0.2708299458026886
+          ]
+        },
+        {
+          "vertexIndex": 1269,
+          "position": [
+            -1.8144023418426514,
+            4.911657333374023,
+            0.08987880498170853
+          ]
+        },
+        {
+          "vertexIndex": 1457,
+          "position": [
+            -0.360755980014801,
+            4.600342750549316,
+            0.7043426632881165
+          ]
+        },
+        {
+          "vertexIndex": 1833,
+          "position": [
+            0.07741359621286392,
+            5.26334285736084,
+            0.8263961672782898
+          ]
+        },
+        {
+          "vertexIndex": 2209,
+          "position": [
+            0.29105737805366516,
+            5.926342964172363,
+            -1.7288645505905151
+          ]
+        },
+        {
+          "vertexIndex": 2397,
+          "position": [
+            -0.007642113137990236,
+            5.950013637542725,
+            0.23672114312648773
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.006982517996618659,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "east-tree-0-leafLight-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 7,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 55,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 1488,
+      "samplingStride": 24,
+      "triangleCount": 2880,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 96,
+          "position": [
+            0.8404451608657837,
+            3.1143429279327393,
+            1.1446255445480347
+          ]
+        },
+        {
+          "vertexIndex": 168,
+          "position": [
+            0.8163893818855286,
+            2.978013515472412,
+            1.062909722328186
+          ]
+        },
+        {
+          "vertexIndex": 264,
+          "position": [
+            0.3100213408470154,
+            4.064986705780029,
+            -0.1535317450761795
+          ]
+        },
+        {
+          "vertexIndex": 336,
+          "position": [
+            0.39371830224990845,
+            3.928657054901123,
+            -0.1474783718585968
+          ]
+        },
+        {
+          "vertexIndex": 528,
+          "position": [
+            -1.1059726476669312,
+            4.440342903137207,
+            -0.5555732846260071
+          ]
+        },
+        {
+          "vertexIndex": 600,
+          "position": [
+            -1.038196325302124,
+            4.304013252258301,
+            -0.5562417507171631
+          ]
+        },
+        {
+          "vertexIndex": 1272,
+          "position": [
+            -0.2019963264465332,
+            6.429342746734619,
+            0.3237845301628113
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.005480455968664275,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "lamp-system-metal-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 21,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 43,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 828,
+      "samplingStride": 13,
+      "triangleCount": 752,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 39,
+          "position": [
+            -10.0,
+            0.04999997466802597,
+            0.0430000014603138
+          ]
+        },
+        {
+          "vertexIndex": 117,
+          "position": [
+            -10.109999656677246,
+            1.7699999809265137,
+            0.10999999940395355
+          ]
+        },
+        {
+          "vertexIndex": 169,
+          "position": [
+            -9.890000343322754,
+            1.7699999809265137,
+            0.10999999940395355
+          ]
+        },
+        {
+          "vertexIndex": 299,
+          "position": [
+            -5.397875785827637,
+            1.7699999809265137,
+            -0.11699999868869781
+          ]
+        },
+        {
+          "vertexIndex": 325,
+          "position": [
+            -5.397875785827637,
+            1.7699999809265137,
+            0.10300000011920929
+          ]
+        },
+        {
+          "vertexIndex": 364,
+          "position": [
+            -5.177875518798828,
+            1.7699999809265137,
+            0.11699999868869781
+          ]
+        },
+        {
+          "vertexIndex": 533,
+          "position": [
+            5.190000057220459,
+            1.7699999809265137,
+            0.09600000083446503
+          ]
+        },
+        {
+          "vertexIndex": 598,
+          "position": [
+            5.300000190734863,
+            0.9283493757247925,
+            0.012500000186264515
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.020242896592294647,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "lamp-system-yellow-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 224,
+      "samplingStride": 4,
+      "triangleCount": 432,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.019923473668274218,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "lamp-system-blue-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 224,
+      "samplingStride": 4,
+      "triangleCount": 432,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.019913453214535578,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "pedestrians-skin-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 61,
+      "sampledVertexCount": 61,
+      "totalVertexCount": 1026,
+      "samplingStride": 17,
+      "triangleCount": 1512,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.019125150454281748,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "pedestrians-base-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 62,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 310,
+      "samplingStride": 5,
+      "triangleCount": 600,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.019086307032665704,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "pedestrians-rose-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 62,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 186,
+      "samplingStride": 3,
+      "triangleCount": 360,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.014310073039790415,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "pedestrians-blue-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 7,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 53,
+      "sampledVertexCount": 60,
+      "totalVertexCount": 654,
+      "samplingStride": 11,
+      "triangleCount": 792,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 121,
+          "position": [
+            -6.770381927490234,
+            0.1829550862312317,
+            0.027662105858325958
+          ]
+        },
+        {
+          "vertexIndex": 143,
+          "position": [
+            -6.699032783508301,
+            0.18302026391029358,
+            -0.02388818748295307
+          ]
+        },
+        {
+          "vertexIndex": 165,
+          "position": [
+            -6.730585098266602,
+            0.18993481993675232,
+            0.027411578223109245
+          ]
+        },
+        {
+          "vertexIndex": 330,
+          "position": [
+            0.26314297318458557,
+            0.11485467106103897,
+            -0.0630786344408989
+          ]
+        },
+        {
+          "vertexIndex": 341,
+          "position": [
+            0.24903300404548645,
+            0.18302026391029358,
+            -0.007117691449820995
+          ]
+        },
+        {
+          "vertexIndex": 352,
+          "position": [
+            0.22038206458091736,
+            0.19704492390155792,
+            -0.05866798385977745
+          ]
+        },
+        {
+          "vertexIndex": 572,
+          "position": [
+            7.33058500289917,
+            0.18993481993675232,
+            0.05474675074219704
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.019000933378495025,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "pedestrians-bark-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 1,
+      "outsideVertexCount": 61,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 1364,
+      "samplingStride": 22,
+      "triangleCount": 2640,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.01903212247995266,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "pedestrians-grass-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 62,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 186,
+      "samplingStride": 3,
+      "triangleCount": 360,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.014310837109937982,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "road-markings-white-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 60,
+      "sampledVertexCount": 60,
+      "totalVertexCount": 360,
+      "samplingStride": 6,
+      "triangleCount": 180,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.01996664791586559,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "road-markings-yellow-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 58,
+      "sampledVertexCount": 58,
+      "totalVertexCount": 288,
+      "samplingStride": 5,
+      "triangleCount": 144,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.02505002568416817,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "campus-sign-surface-1",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.001956425343878757,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "campus-sign-surface-2",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0013346894630847535,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "campus-sign-surface-3",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 44,
+      "sampledVertexCount": 44,
+      "totalVertexCount": 88,
+      "samplingStride": 2,
+      "triangleCount": 120,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0033527335850128317,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "campus-sign-surface-5",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": false,
+      "insideVertexCount": 0,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 56,
+      "sampledVertexCount": 56,
+      "totalVertexCount": 56,
+      "samplingStride": 1,
+      "triangleCount": 108,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0016378339747196709,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "campus-sign-foliage-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 4,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 58,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 310,
+      "samplingStride": 5,
+      "triangleCount": 600,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 150,
+          "position": [
+            0.14623919129371643,
+            0.38337814807891846,
+            0.15000000596046448
+          ]
+        },
+        {
+          "vertexIndex": 160,
+          "position": [
+            0.14623919129371643,
+            0.316621869802475,
+            0.15000000596046448
+          ]
+        },
+        {
+          "vertexIndex": 270,
+          "position": [
+            0.3337608277797699,
+            0.38337814807891846,
+            0.15000000596046448
+          ]
+        },
+        {
+          "vertexIndex": 280,
+          "position": [
+            0.3337608277797699,
+            0.316621869802475,
+            0.15000000596046448
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.0013102744735900879,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-rear-tree-bark-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 19,
+      "undecidedVertexCount": 1,
+      "outsideVertexCount": 34,
+      "sampledVertexCount": 54,
+      "totalVertexCount": 266,
+      "samplingStride": 5,
+      "triangleCount": 252,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 45,
+          "position": [
+            0.10392304509878159,
+            2.123303174972534,
+            -0.04153115302324295
+          ]
+        },
+        {
+          "vertexIndex": 70,
+          "position": [
+            0.10392304509878159,
+            2.123303174972534,
+            -0.04153115302324295
+          ]
+        },
+        {
+          "vertexIndex": 85,
+          "position": [
+            0.017989937216043472,
+            2.5694804191589355,
+            -0.08759704232215881
+          ]
+        },
+        {
+          "vertexIndex": 110,
+          "position": [
+            -0.052566878497600555,
+            2.6094963550567627,
+            -0.10018201917409897
+          ]
+        },
+        {
+          "vertexIndex": 125,
+          "position": [
+            -0.031531158834695816,
+            3.1966135501861572,
+            -0.1135985404253006
+          ]
+        },
+        {
+          "vertexIndex": 150,
+          "position": [
+            -0.08151983469724655,
+            3.132720708847046,
+            0.017617974430322647
+          ]
+        },
+        {
+          "vertexIndex": 165,
+          "position": [
+            -0.07485561817884445,
+            3.874371290206909,
+            -0.03771963715553284
+          ]
+        },
+        {
+          "vertexIndex": 185,
+          "position": [
+            0.04984353855252266,
+            3.814500331878662,
+            -0.10601700097322464
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.006178304493094292,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-rear-tree-foliage-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 9,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 55,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 2976,
+      "samplingStride": 47,
+      "triangleCount": 5760,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 235,
+          "position": [
+            -0.5183273553848267,
+            2.6980135440826416,
+            1.1466199159622192
+          ]
+        },
+        {
+          "vertexIndex": 611,
+          "position": [
+            0.28269368410110474,
+            3.173170566558838,
+            -1.1498427391052246
+          ]
+        },
+        {
+          "vertexIndex": 1269,
+          "position": [
+            -1.8144023418426514,
+            4.284657001495361,
+            0.08987880498170853
+          ]
+        },
+        {
+          "vertexIndex": 1316,
+          "position": [
+            0.04514966905117035,
+            4.260986328125,
+            0.7809309959411621
+          ]
+        },
+        {
+          "vertexIndex": 1457,
+          "position": [
+            -0.360755980014801,
+            3.9733428955078125,
+            0.7043426632881165
+          ]
+        },
+        {
+          "vertexIndex": 1833,
+          "position": [
+            0.07741359621286392,
+            4.542842864990234,
+            0.8263961672782898
+          ]
+        },
+        {
+          "vertexIndex": 2209,
+          "position": [
+            0.29105737805366516,
+            5.112342834472656,
+            -1.7288645505905151
+          ]
+        },
+        {
+          "vertexIndex": 2397,
+          "position": [
+            -0.007642113137990236,
+            5.136013507843018,
+            0.23672114312648773
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.006691833909083918,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "west-rear-tree-leafLight-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 5,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 57,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 1488,
+      "samplingStride": 24,
+      "triangleCount": 2880,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 96,
+          "position": [
+            0.8404451608657837,
+            2.6743428707122803,
+            1.1446255445480347
+          ]
+        },
+        {
+          "vertexIndex": 168,
+          "position": [
+            0.8163893818855286,
+            2.538013458251953,
+            1.062909722328186
+          ]
+        },
+        {
+          "vertexIndex": 336,
+          "position": [
+            0.39371830224990845,
+            3.3951570987701416,
+            -0.1474783718585968
+          ]
+        },
+        {
+          "vertexIndex": 384,
+          "position": [
+            -0.30243584513664246,
+            3.5314865112304688,
+            -0.1414995938539505
+          ]
+        },
+        {
+          "vertexIndex": 528,
+          "position": [
+            -1.1059726476669312,
+            3.813342809677124,
+            -0.5555732846260071
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.005149624178842112,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "east-rear-tree-bark-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 17,
+      "undecidedVertexCount": 1,
+      "outsideVertexCount": 36,
+      "sampledVertexCount": 54,
+      "totalVertexCount": 266,
+      "samplingStride": 5,
+      "triangleCount": 252,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 45,
+          "position": [
+            0.10392304509878159,
+            2.76330304145813,
+            -0.04153115302324295
+          ]
+        },
+        {
+          "vertexIndex": 70,
+          "position": [
+            0.10392304509878159,
+            2.76330304145813,
+            -0.04153115302324295
+          ]
+        },
+        {
+          "vertexIndex": 85,
+          "position": [
+            0.017989937216043472,
+            3.345480442047119,
+            -0.08759704232215881
+          ]
+        },
+        {
+          "vertexIndex": 110,
+          "position": [
+            -0.052566878497600555,
+            3.3854963779449463,
+            -0.10018201917409897
+          ]
+        },
+        {
+          "vertexIndex": 125,
+          "position": [
+            -0.031531158834695816,
+            4.10861349105835,
+            -0.1135985404253006
+          ]
+        },
+        {
+          "vertexIndex": 150,
+          "position": [
+            -0.08151983469724655,
+            4.044720649719238,
+            0.017617974430322647
+          ]
+        },
+        {
+          "vertexIndex": 165,
+          "position": [
+            -0.07485561817884445,
+            4.9223713874816895,
+            -0.03771963715553284
+          ]
+        },
+        {
+          "vertexIndex": 185,
+          "position": [
+            0.04984353855252266,
+            4.862500190734863,
+            -0.10601700097322464
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.007426040858600382,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "east-rear-tree-foliage-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 9,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 55,
+      "sampledVertexCount": 64,
+      "totalVertexCount": 2976,
+      "samplingStride": 47,
+      "triangleCount": 5760,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 235,
+          "position": [
+            -0.5183273553848267,
+            3.3380134105682373,
+            1.1466199159622192
+          ]
+        },
+        {
+          "vertexIndex": 611,
+          "position": [
+            0.28269368410110474,
+            3.9491705894470215,
+            -1.1498427391052246
+          ]
+        },
+        {
+          "vertexIndex": 1081,
+          "position": [
+            0.25117027759552,
+            5.036657333374023,
+            0.2708299458026886
+          ]
+        },
+        {
+          "vertexIndex": 1269,
+          "position": [
+            -1.8144023418426514,
+            5.196657180786133,
+            0.08987880498170853
+          ]
+        },
+        {
+          "vertexIndex": 1457,
+          "position": [
+            -0.360755980014801,
+            4.885343074798584,
+            0.7043426632881165
+          ]
+        },
+        {
+          "vertexIndex": 1833,
+          "position": [
+            0.07741359621286392,
+            5.5908427238464355,
+            0.8263961672782898
+          ]
+        },
+        {
+          "vertexIndex": 2209,
+          "position": [
+            0.29105737805366516,
+            6.296342849731445,
+            -1.7288645505905151
+          ]
+        },
+        {
+          "vertexIndex": 2397,
+          "position": [
+            -0.007642113137990236,
+            6.320013523101807,
+            0.23672114312648773
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.007120873361783208,
+      "rayDirectionCount": 3
+    },
+    {
+      "name": "east-rear-tree-leafLight-batch",
+      "analyzed": true,
+      "error": null,
+      "selfIntersecting": true,
+      "insideVertexCount": 7,
+      "undecidedVertexCount": 0,
+      "outsideVertexCount": 55,
+      "sampledVertexCount": 62,
+      "totalVertexCount": 1488,
+      "samplingStride": 24,
+      "triangleCount": 2880,
+      "degenerateTriangleCount": 0,
+      "worstRegions": [
+        {
+          "vertexIndex": 96,
+          "position": [
+            0.8404451608657837,
+            3.314342975616455,
+            1.1446255445480347
+          ]
+        },
+        {
+          "vertexIndex": 168,
+          "position": [
+            0.8163893818855286,
+            3.178013563156128,
+            1.062909722328186
+          ]
+        },
+        {
+          "vertexIndex": 264,
+          "position": [
+            0.3100213408470154,
+            4.307486534118652,
+            -0.1535317450761795
+          ]
+        },
+        {
+          "vertexIndex": 336,
+          "position": [
+            0.39371830224990845,
+            4.171156883239746,
+            -0.1474783718585968
+          ]
+        },
+        {
+          "vertexIndex": 528,
+          "position": [
+            -1.1059726476669312,
+            4.725342750549316,
+            -0.5555732846260071
+          ]
+        },
+        {
+          "vertexIndex": 600,
+          "position": [
+            -1.038196325302124,
+            4.589013576507568,
+            -0.5562417507171631
+          ]
+        },
+        {
+          "vertexIndex": 1272,
+          "position": [
+            -0.2019963264465332,
+            6.8418426513671875,
+            0.3237845301628113
+          ]
+        }
+      ],
+      "normalSource": "vertexNormals",
+      "normalFallbackCount": 0,
+      "epsilon": 0.005637236169847756,
+      "rayDirectionCount": 3
+    }
+  ],
+  "errors": []
+}

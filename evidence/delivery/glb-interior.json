@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "kind": "interior-difference",
+  "baseline": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\delivery\\after.png",
+  "render": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\delivery\\glb-match.png",
+  "band": {
+    "from": 0.0,
+    "to": 1.0
+  },
+  "grid": 192,
+  "cellsCompared": 20078,
+  "warnings": [],
+  "interiorDifference": 0.0005228519449528101,
+  "status": "measured"
+}

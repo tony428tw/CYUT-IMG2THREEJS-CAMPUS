@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "failures": [],
+  "original": {
+    "meshes": 2933,
+    "triangles": 385004,
+    "vertices": 789616,
+    "materials": 20,
+    "geometries": 2933
+  },
+  "optimized": {
+    "meshes": 155,
+    "triangles": 211652,
+    "vertices": 149481,
+    "materials": 20,
+    "geometries": 155
+  },
+  "triangleReduction": 0.4502602570362906,
+  "meshReduction": 0.9471530855779066,
+  "components": 62,
+  "sockets": 62,
+  "colliders": 62,
+  "pickChecks": [
+    {
+      "id": "tower",
+      "hits": 1
+    },
+    {
+      "id": "east-wing",
+      "hits": 1
+    },
+    {
+      "id": "plinth",
+      "hits": 1
+    }
+  ],
+  "canonicalExportWhileExploded": true,
+  "exportSerializable": true
+}

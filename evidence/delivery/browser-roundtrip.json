@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "bytes": 15868868,
+  "before": {
+    "meshes": 156,
+    "triangles": 211654,
+    "vertices": 149485,
+    "materials": 21,
+    "geometries": 156
+  },
+  "after": {
+    "meshes": 156,
+    "triangles": 211654,
+    "vertices": 149485,
+    "materials": 21,
+    "geometries": 156
+  },
+  "components": 62,
+  "boundsError": 0,
+  "embeddedImages": 34,
+  "externalDependencies": 0,
+  "saved": {
+    "saved": true,
+    "bytes": 15868868,
+    "url": "/models/chaoyang-clocktower-campus.glb"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "checks": {
+    "silhouetteIoU": 0.9994,
+    "aspectRatioDelta": 0.0,
+    "scaleDelta": 0.0,
+    "bilateralSymmetryError": 0.1223
+  },
+  "failures": [],
+  "maskWarnings": [],
+  "renderHash": "9caa9a00a08c32ed",
+  "passId": null
+}
+STATUS pass=unknown completed=0 blocked=spec not loaded next=diagnose_render.py

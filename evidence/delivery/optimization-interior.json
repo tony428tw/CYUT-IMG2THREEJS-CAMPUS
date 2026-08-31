@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "kind": "interior-difference",
+  "baseline": "evidence\\delivery\\before.png",
+  "render": "evidence\\delivery\\after.png",
+  "band": {
+    "from": 0.0,
+    "to": 1.0
+  },
+  "grid": 192,
+  "cellsCompared": 20007,
+  "warnings": [],
+  "interiorDifference": 0.01624298157124415,
+  "status": "measured"
+}
