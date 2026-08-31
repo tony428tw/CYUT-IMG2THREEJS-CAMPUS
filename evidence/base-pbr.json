@@ -1,0 +1,88 @@
+{
+  "ok": true,
+  "verdict": "pass",
+  "confidence": 0.758,
+  "estimatedFidelity": 0.758,
+  "targetThreshold": 0.7,
+  "materialId": "base",
+  "sourceImage": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\material-crops\\base.png",
+  "outDir": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\base",
+  "palette": [
+    "#C9A57C",
+    "#EFD6B7",
+    "#D8C3AD",
+    "#CEA981",
+    "#D3B89D"
+  ],
+  "maps": {
+    "albedo": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\base\\base_albedo.png",
+      "url": "/pbr/base/base_albedo.png",
+      "channel": "albedo",
+      "source": "reference-pixel-extraction"
+    },
+    "roughness": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\base\\base_roughness.png",
+      "url": "/pbr/base/base_roughness.png",
+      "channel": "roughness",
+      "source": "reference-pixel-extraction"
+    },
+    "height": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\base\\base_height.png",
+      "url": "/pbr/base/base_height.png",
+      "channel": "height",
+      "source": "reference-pixel-extraction"
+    },
+    "normal": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\base\\base_normal.png",
+      "url": "/pbr/base/base_normal.png",
+      "channel": "normal",
+      "source": "reference-pixel-extraction"
+    },
+    "ao": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\base\\base_ao.png",
+      "url": "/pbr/base/base_ao.png",
+      "channel": "ao",
+      "source": "reference-pixel-extraction"
+    }
+  },
+  "diagnostics": {
+    "sourceWidth": 110,
+    "sourceHeight": 26,
+    "mapSize": 1024,
+    "cropBBoxPixels": {
+      "x": 0,
+      "y": 0,
+      "width": 110,
+      "height": 26
+    },
+    "mask": {
+      "backgroundColor": "#D0AC84",
+      "backgroundNoise": 49.558,
+      "transparentPixelFraction": 0.0,
+      "foregroundCoverage": 0.9787
+    },
+    "mapStats": {
+      "valueRange": 0.1947,
+      "heightP90Gradient": 0.02153,
+      "roughnessBase": 0.689,
+      "roughnessVariation": 0.05,
+      "normalStrength": 0.181,
+      "blurRadius": 21
+    },
+    "palette": [
+      "#C9A57C",
+      "#EFD6B7",
+      "#D8C3AD",
+      "#CEA981",
+      "#D3B89D"
+    ]
+  },
+  "warnings": [
+    "image is not clearly isolated from background; using most pixels as material evidence",
+    "object/background separation is weak",
+    "single-image inverse rendering cannot prove true physical PBR; confidence is capped",
+    "low value range weakens height/roughness inference"
+  ],
+  "limitation": "single-image PBR extraction is an estimate; 70%+ extraction confidence still needs render screenshot review"
+}

@@ -1,0 +1,86 @@
+{
+  "ok": true,
+  "verdict": "pass",
+  "confidence": 0.777,
+  "estimatedFidelity": 0.777,
+  "targetThreshold": 0.7,
+  "materialId": "paving",
+  "sourceImage": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\material-crops\\paving.png",
+  "outDir": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\paving",
+  "palette": [
+    "#F6E2CA",
+    "#F8E5CE",
+    "#D8BDA0",
+    "#BD855C",
+    "#F0DCC3"
+  ],
+  "maps": {
+    "albedo": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\paving\\paving_albedo.png",
+      "url": "/pbr/paving/paving_albedo.png",
+      "channel": "albedo",
+      "source": "reference-pixel-extraction"
+    },
+    "roughness": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\paving\\paving_roughness.png",
+      "url": "/pbr/paving/paving_roughness.png",
+      "channel": "roughness",
+      "source": "reference-pixel-extraction"
+    },
+    "height": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\paving\\paving_height.png",
+      "url": "/pbr/paving/paving_height.png",
+      "channel": "height",
+      "source": "reference-pixel-extraction"
+    },
+    "normal": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\paving\\paving_normal.png",
+      "url": "/pbr/paving/paving_normal.png",
+      "channel": "normal",
+      "source": "reference-pixel-extraction"
+    },
+    "ao": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\paving\\paving_ao.png",
+      "url": "/pbr/paving/paving_ao.png",
+      "channel": "ao",
+      "source": "reference-pixel-extraction"
+    }
+  },
+  "diagnostics": {
+    "sourceWidth": 25,
+    "sourceHeight": 16,
+    "mapSize": 1024,
+    "cropBBoxPixels": {
+      "x": 0,
+      "y": 0,
+      "width": 25,
+      "height": 16
+    },
+    "mask": {
+      "backgroundColor": "#F6E2CB",
+      "backgroundNoise": 38.549,
+      "transparentPixelFraction": 0.0,
+      "foregroundCoverage": 0.41
+    },
+    "mapStats": {
+      "valueRange": 0.3673,
+      "heightP90Gradient": 0.00659,
+      "roughnessBase": 0.68,
+      "roughnessVariation": 0.05,
+      "normalStrength": 0.164,
+      "blurRadius": 21
+    },
+    "palette": [
+      "#F6E2CA",
+      "#F8E5CE",
+      "#D8BDA0",
+      "#BD855C",
+      "#F0DCC3"
+    ]
+  },
+  "warnings": [
+    "single-image inverse rendering cannot prove true physical PBR; confidence is capped",
+    "low high-frequency detail weakens normal/roughness inference"
+  ],
+  "limitation": "single-image PBR extraction is an estimate; 70%+ extraction confidence still needs render screenshot review"
+}

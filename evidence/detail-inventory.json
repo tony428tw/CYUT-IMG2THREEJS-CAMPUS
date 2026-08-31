@@ -1,0 +1,191 @@
+{
+  "sourceImage": "C:\\Users\\tony428tw\\Desktop\\1150902投入不超載，學習剛剛好AIGC 與 XR 跨域設計之教學實踐\\朝陽校園照片\\ChatGPT Image 2026年8月31日 上午03_25_19.png",
+  "zonesDir": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\zones",
+  "detailInventory": {
+    "scanMethod": "grid-3x3",
+    "targetMinDetails": 16,
+    "details": [
+      {
+        "id": "zone-r0c0",
+        "kind": "",
+        "description": "",
+        "region": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.3333,
+          "height": 0.3333,
+          "units": "normalized"
+        },
+        "scale": "",
+        "affects": "",
+        "mapsTo": {
+          "type": "",
+          "ref": ""
+        },
+        "evidenceRef": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\zones\\zone-r0c0.png",
+        "confidence": 0.0
+      },
+      {
+        "id": "zone-r0c1",
+        "kind": "",
+        "description": "",
+        "region": {
+          "x": 0.3333,
+          "y": 0.0,
+          "width": 0.3333,
+          "height": 0.3333,
+          "units": "normalized"
+        },
+        "scale": "",
+        "affects": "",
+        "mapsTo": {
+          "type": "",
+          "ref": ""
+        },
+        "evidenceRef": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\zones\\zone-r0c1.png",
+        "confidence": 0.0
+      },
+      {
+        "id": "zone-r0c2",
+        "kind": "",
+        "description": "",
+        "region": {
+          "x": 0.6667,
+          "y": 0.0,
+          "width": 0.3333,
+          "height": 0.3333,
+          "units": "normalized"
+        },
+        "scale": "",
+        "affects": "",
+        "mapsTo": {
+          "type": "",
+          "ref": ""
+        },
+        "evidenceRef": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\zones\\zone-r0c2.png",
+        "confidence": 0.0
+      },
+      {
+        "id": "zone-r1c0",
+        "kind": "",
+        "description": "",
+        "region": {
+          "x": 0.0,
+          "y": 0.3333,
+          "width": 0.3333,
+          "height": 0.3333,
+          "units": "normalized"
+        },
+        "scale": "",
+        "affects": "",
+        "mapsTo": {
+          "type": "",
+          "ref": ""
+        },
+        "evidenceRef": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\zones\\zone-r1c0.png",
+        "confidence": 0.0
+      },
+      {
+        "id": "zone-r1c1",
+        "kind": "",
+        "description": "",
+        "region": {
+          "x": 0.3333,
+          "y": 0.3333,
+          "width": 0.3333,
+          "height": 0.3333,
+          "units": "normalized"
+        },
+        "scale": "",
+        "affects": "",
+        "mapsTo": {
+          "type": "",
+          "ref": ""
+        },
+        "evidenceRef": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\zones\\zone-r1c1.png",
+        "confidence": 0.0
+      },
+      {
+        "id": "zone-r1c2",
+        "kind": "",
+        "description": "",
+        "region": {
+          "x": 0.6667,
+          "y": 0.3333,
+          "width": 0.3333,
+          "height": 0.3333,
+          "units": "normalized"
+        },
+        "scale": "",
+        "affects": "",
+        "mapsTo": {
+          "type": "",
+          "ref": ""
+        },
+        "evidenceRef": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\zones\\zone-r1c2.png",
+        "confidence": 0.0
+      },
+      {
+        "id": "zone-r2c0",
+        "kind": "",
+        "description": "",
+        "region": {
+          "x": 0.0,
+          "y": 0.6667,
+          "width": 0.3333,
+          "height": 0.3333,
+          "units": "normalized"
+        },
+        "scale": "",
+        "affects": "",
+        "mapsTo": {
+          "type": "",
+          "ref": ""
+        },
+        "evidenceRef": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\zones\\zone-r2c0.png",
+        "confidence": 0.0
+      },
+      {
+        "id": "zone-r2c1",
+        "kind": "",
+        "description": "",
+        "region": {
+          "x": 0.3333,
+          "y": 0.6667,
+          "width": 0.3333,
+          "height": 0.3333,
+          "units": "normalized"
+        },
+        "scale": "",
+        "affects": "",
+        "mapsTo": {
+          "type": "",
+          "ref": ""
+        },
+        "evidenceRef": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\zones\\zone-r2c1.png",
+        "confidence": 0.0
+      },
+      {
+        "id": "zone-r2c2",
+        "kind": "",
+        "description": "",
+        "region": {
+          "x": 0.6667,
+          "y": 0.6667,
+          "width": 0.3333,
+          "height": 0.3333,
+          "units": "normalized"
+        },
+        "scale": "",
+        "affects": "",
+        "mapsTo": {
+          "type": "",
+          "ref": ""
+        },
+        "evidenceRef": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\zones\\zone-r2c2.png",
+        "confidence": 0.0
+      }
+    ]
+  },
+  "authoringInstruction": "Open each zone crop under zonesDir and replace every detail stub's kind, description, scale, affects, mapsTo, and confidence with what is actually observed. Add more detail entries per zone if a single zone contains multiple distinct marks; do not leave stubs unfilled or unlinked (mapsTo must reference a real component.localFeatures or material.localOverrides entry)."
+}

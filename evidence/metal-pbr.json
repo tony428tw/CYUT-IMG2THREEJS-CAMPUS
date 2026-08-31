@@ -1,0 +1,87 @@
+{
+  "ok": true,
+  "verdict": "pass",
+  "confidence": 0.77,
+  "estimatedFidelity": 0.77,
+  "targetThreshold": 0.7,
+  "materialId": "metal",
+  "sourceImage": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\material-crops\\metal.png",
+  "outDir": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\metal",
+  "palette": [
+    "#6E6154",
+    "#615141",
+    "#AF8265",
+    "#4F3E2F",
+    "#CBB19A"
+  ],
+  "maps": {
+    "albedo": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\metal\\metal_albedo.png",
+      "url": "/pbr/metal/metal_albedo.png",
+      "channel": "albedo",
+      "source": "reference-pixel-extraction"
+    },
+    "roughness": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\metal\\metal_roughness.png",
+      "url": "/pbr/metal/metal_roughness.png",
+      "channel": "roughness",
+      "source": "reference-pixel-extraction"
+    },
+    "height": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\metal\\metal_height.png",
+      "url": "/pbr/metal/metal_height.png",
+      "channel": "height",
+      "source": "reference-pixel-extraction"
+    },
+    "normal": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\metal\\metal_normal.png",
+      "url": "/pbr/metal/metal_normal.png",
+      "channel": "normal",
+      "source": "reference-pixel-extraction"
+    },
+    "ao": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\metal\\metal_ao.png",
+      "url": "/pbr/metal/metal_ao.png",
+      "channel": "ao",
+      "source": "reference-pixel-extraction"
+    }
+  },
+  "diagnostics": {
+    "sourceWidth": 4,
+    "sourceHeight": 32,
+    "mapSize": 1024,
+    "cropBBoxPixels": {
+      "x": 0,
+      "y": 0,
+      "width": 4,
+      "height": 32
+    },
+    "mask": {
+      "backgroundColor": "#625441",
+      "backgroundNoise": 18.788,
+      "transparentPixelFraction": 0.0,
+      "foregroundCoverage": 0.9766
+    },
+    "mapStats": {
+      "valueRange": 0.495,
+      "heightP90Gradient": 0.01213,
+      "roughnessBase": 0.684,
+      "roughnessVariation": 0.05,
+      "normalStrength": 0.17,
+      "blurRadius": 21
+    },
+    "palette": [
+      "#6E6154",
+      "#615141",
+      "#AF8265",
+      "#4F3E2F",
+      "#CBB19A"
+    ]
+  },
+  "warnings": [
+    "image is not clearly isolated from background; using most pixels as material evidence",
+    "object/background separation is weak",
+    "single-image inverse rendering cannot prove true physical PBR; confidence is capped"
+  ],
+  "limitation": "single-image PBR extraction is an estimate; 70%+ extraction confidence still needs render screenshot review"
+}

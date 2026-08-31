@@ -1,0 +1,156 @@
+{
+  "stone": {
+    "medianRGB": [
+      226,
+      204,
+      177
+    ],
+    "hex": "#e2ccb1",
+    "regionPixels": [
+      652,
+      345,
+      24,
+      66
+    ]
+  },
+  "brick": {
+    "medianRGB": [
+      197,
+      107,
+      65
+    ],
+    "hex": "#c56b41",
+    "regionPixels": [
+      627,
+      529,
+      40,
+      30
+    ]
+  },
+  "roof": {
+    "medianRGB": [
+      184,
+      124,
+      99
+    ],
+    "hex": "#b87c63",
+    "regionPixels": [
+      1170,
+      396,
+      63,
+      25
+    ]
+  },
+  "foliage": {
+    "medianRGB": [
+      166,
+      171,
+      71
+    ],
+    "hex": "#a6ab47",
+    "regionPixels": [
+      1273,
+      483,
+      53,
+      31
+    ]
+  },
+  "base": {
+    "medianRGB": [
+      205,
+      170,
+      130
+    ],
+    "hex": "#cdaa82",
+    "regionPixels": [
+      125,
+      688,
+      110,
+      26
+    ]
+  },
+  "paving": {
+    "medianRGB": [
+      250,
+      236,
+      219
+    ],
+    "hex": "#faecdb",
+    "regionPixels": [
+      260,
+      630,
+      25,
+      16
+    ]
+  },
+  "glass": {
+    "medianRGB": [
+      152,
+      175,
+      179
+    ],
+    "hex": "#98afb3",
+    "regionPixels": [
+      824,
+      237,
+      15,
+      31
+    ]
+  },
+  "grass": {
+    "medianRGB": [
+      176,
+      173,
+      60
+    ],
+    "hex": "#b0ad3c",
+    "regionPixels": [
+      573,
+      654,
+      38,
+      14
+    ]
+  },
+  "trim": {
+    "medianRGB": [
+      239,
+      215,
+      188
+    ],
+    "hex": "#efd7bc",
+    "regionPixels": [
+      810,
+      356,
+      53,
+      14
+    ]
+  },
+  "road": {
+    "medianRGB": [
+      209,
+      191,
+      175
+    ],
+    "hex": "#d1bfaf",
+    "regionPixels": [
+      652,
+      764,
+      76,
+      16
+    ]
+  },
+  "metal": {
+    "medianRGB": [
+      102,
+      92,
+      78
+    ],
+    "hex": "#665c4e",
+    "regionPixels": [
+      248,
+      612,
+      4,
+      32
+    ]
+  }
+}

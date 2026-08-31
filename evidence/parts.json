@@ -1,0 +1,378 @@
+{
+  "model": "ChaoyangClocktowerCampus",
+  "parts": [
+    {
+      "name": "root",
+      "kind": "part",
+      "module": "root",
+      "triangles": 211652
+    },
+    {
+      "name": "plinth",
+      "kind": "part",
+      "module": "plinth",
+      "triangles": 216
+    },
+    {
+      "name": "landscape",
+      "kind": "part",
+      "module": "landscape",
+      "triangles": 108
+    },
+    {
+      "name": "west-wing",
+      "kind": "part",
+      "module": "west-wing",
+      "triangles": 216
+    },
+    {
+      "name": "east-wing",
+      "kind": "part",
+      "module": "east-wing",
+      "triangles": 216
+    },
+    {
+      "name": "central-block",
+      "kind": "part",
+      "module": "central-block",
+      "triangles": 216
+    },
+    {
+      "name": "tower",
+      "kind": "part",
+      "module": "tower",
+      "triangles": 456
+    },
+    {
+      "name": "tower-roof",
+      "kind": "part",
+      "module": "tower-roof",
+      "triangles": 2088
+    },
+    {
+      "name": "west-roof",
+      "kind": "part",
+      "module": "west-roof",
+      "triangles": 3684
+    },
+    {
+      "name": "east-roof",
+      "kind": "part",
+      "module": "east-roof",
+      "triangles": 3732
+    },
+    {
+      "name": "central-roof",
+      "kind": "part",
+      "module": "central-roof",
+      "triangles": 3636
+    },
+    {
+      "name": "arcade",
+      "kind": "part",
+      "module": "arcade",
+      "triangles": 8016
+    },
+    {
+      "name": "arcade-roof",
+      "kind": "part",
+      "module": "arcade-roof",
+      "triangles": 3348
+    },
+    {
+      "name": "west-turret",
+      "kind": "part",
+      "module": "west-turret",
+      "triangles": 1656
+    },
+    {
+      "name": "west-turret-roof",
+      "kind": "part",
+      "module": "west-turret-roof",
+      "triangles": 1812
+    },
+    {
+      "name": "east-turret",
+      "kind": "part",
+      "module": "east-turret",
+      "triangles": 1656
+    },
+    {
+      "name": "east-turret-roof",
+      "kind": "part",
+      "module": "east-turret-roof",
+      "triangles": 1812
+    },
+    {
+      "name": "west-arcade",
+      "kind": "part",
+      "module": "west-arcade",
+      "triangles": 10080
+    },
+    {
+      "name": "west-windows",
+      "kind": "part",
+      "module": "west-windows",
+      "triangles": 7200
+    },
+    {
+      "name": "west-piers",
+      "kind": "part",
+      "module": "west-piers",
+      "triangles": 864
+    },
+    {
+      "name": "west-dormers",
+      "kind": "part",
+      "module": "west-dormers",
+      "triangles": 1392
+    },
+    {
+      "name": "west-parapets",
+      "kind": "part",
+      "module": "west-parapets",
+      "triangles": 1080
+    },
+    {
+      "name": "west-side-windows",
+      "kind": "part",
+      "module": "west-side-windows",
+      "triangles": 4320
+    },
+    {
+      "name": "east-arcade",
+      "kind": "part",
+      "module": "east-arcade",
+      "triangles": 10080
+    },
+    {
+      "name": "east-windows",
+      "kind": "part",
+      "module": "east-windows",
+      "triangles": 7380
+    },
+    {
+      "name": "east-piers",
+      "kind": "part",
+      "module": "east-piers",
+      "triangles": 864
+    },
+    {
+      "name": "east-dormers",
+      "kind": "part",
+      "module": "east-dormers",
+      "triangles": 1392
+    },
+    {
+      "name": "east-parapets",
+      "kind": "part",
+      "module": "east-parapets",
+      "triangles": 1080
+    },
+    {
+      "name": "east-side-windows",
+      "kind": "part",
+      "module": "east-side-windows",
+      "triangles": 4320
+    },
+    {
+      "name": "central-windows",
+      "kind": "part",
+      "module": "central-windows",
+      "triangles": 5760
+    },
+    {
+      "name": "tower-clock",
+      "kind": "part",
+      "module": "tower-clock",
+      "triangles": 2144
+    },
+    {
+      "name": "tower-window",
+      "kind": "part",
+      "module": "tower-window",
+      "triangles": 864
+    },
+    {
+      "name": "tower-lower-window",
+      "kind": "part",
+      "module": "tower-lower-window",
+      "triangles": 480
+    },
+    {
+      "name": "balcony",
+      "kind": "part",
+      "module": "balcony",
+      "triangles": 2752
+    },
+    {
+      "name": "stairs",
+      "kind": "part",
+      "module": "stairs",
+      "triangles": 1836
+    },
+    {
+      "name": "pavement",
+      "kind": "part",
+      "module": "pavement",
+      "triangles": 780
+    },
+    {
+      "name": "road",
+      "kind": "part",
+      "module": "road",
+      "triangles": 108
+    },
+    {
+      "name": "roof-dormers",
+      "kind": "part",
+      "module": "roof-dormers",
+      "triangles": 2784
+    },
+    {
+      "name": "central-parapet",
+      "kind": "part",
+      "module": "central-parapet",
+      "triangles": 1080
+    },
+    {
+      "name": "front-plaque",
+      "kind": "part",
+      "module": "front-plaque",
+      "triangles": 216
+    },
+    {
+      "name": "west-hedges",
+      "kind": "part",
+      "module": "west-hedges",
+      "triangles": 11280
+    },
+    {
+      "name": "west-tree-0",
+      "kind": "part",
+      "module": "west-tree-0",
+      "triangles": 8892
+    },
+    {
+      "name": "west-tree-1",
+      "kind": "part",
+      "module": "west-tree-1",
+      "triangles": 8892
+    },
+    {
+      "name": "west-tree-2",
+      "kind": "part",
+      "module": "west-tree-2",
+      "triangles": 8892
+    },
+    {
+      "name": "west-shrubs",
+      "kind": "part",
+      "module": "west-shrubs",
+      "triangles": 3432
+    },
+    {
+      "name": "east-hedges",
+      "kind": "part",
+      "module": "east-hedges",
+      "triangles": 11280
+    },
+    {
+      "name": "east-tree-0",
+      "kind": "part",
+      "module": "east-tree-0",
+      "triangles": 8892
+    },
+    {
+      "name": "east-tree-1",
+      "kind": "part",
+      "module": "east-tree-1",
+      "triangles": 8892
+    },
+    {
+      "name": "east-tree-2",
+      "kind": "part",
+      "module": "east-tree-2",
+      "triangles": 8892
+    },
+    {
+      "name": "east-shrubs",
+      "kind": "part",
+      "module": "east-shrubs",
+      "triangles": 3432
+    },
+    {
+      "name": "lamp-system",
+      "kind": "part",
+      "module": "lamp-system",
+      "triangles": 1616
+    },
+    {
+      "name": "pedestrians",
+      "kind": "part",
+      "module": "pedestrians",
+      "triangles": 6264
+    },
+    {
+      "name": "road-markings",
+      "kind": "part",
+      "module": "road-markings",
+      "triangles": 324
+    },
+    {
+      "name": "campus-sign",
+      "kind": "part",
+      "module": "campus-sign",
+      "triangles": 1164
+    },
+    {
+      "name": "roof-tiles",
+      "kind": "part",
+      "module": "roof-tiles",
+      "triangles": 48
+    },
+    {
+      "name": "brick-joints",
+      "kind": "part",
+      "module": "brick-joints",
+      "triangles": 24
+    },
+    {
+      "name": "stone-joints",
+      "kind": "part",
+      "module": "stone-joints",
+      "triangles": 240
+    },
+    {
+      "name": "clock-marks",
+      "kind": "part",
+      "module": "clock-marks",
+      "triangles": 596
+    },
+    {
+      "name": "balustrade",
+      "kind": "part",
+      "module": "balustrade",
+      "triangles": 216
+    },
+    {
+      "name": "window-mullions",
+      "kind": "part",
+      "module": "window-mullions",
+      "triangles": 180
+    },
+    {
+      "name": "west-rear-tree",
+      "kind": "part",
+      "module": "west-rear-tree",
+      "triangles": 8892
+    },
+    {
+      "name": "east-rear-tree",
+      "kind": "part",
+      "module": "east-rear-tree",
+      "triangles": 8892
+    }
+  ],
+  "unnamedMeshes": 0
+}

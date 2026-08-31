@@ -1,0 +1,86 @@
+{
+  "ok": true,
+  "verdict": "pass",
+  "confidence": 0.827,
+  "estimatedFidelity": 0.827,
+  "targetThreshold": 0.7,
+  "materialId": "road",
+  "sourceImage": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\material-crops\\road.png",
+  "outDir": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\road",
+  "palette": [
+    "#D2BFAF",
+    "#D0BDAD",
+    "#F1CE8E",
+    "#D0B89D",
+    "#EDDFD1"
+  ],
+  "maps": {
+    "albedo": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\road\\road_albedo.png",
+      "url": "/pbr/road/road_albedo.png",
+      "channel": "albedo",
+      "source": "reference-pixel-extraction"
+    },
+    "roughness": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\road\\road_roughness.png",
+      "url": "/pbr/road/road_roughness.png",
+      "channel": "roughness",
+      "source": "reference-pixel-extraction"
+    },
+    "height": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\road\\road_height.png",
+      "url": "/pbr/road/road_height.png",
+      "channel": "height",
+      "source": "reference-pixel-extraction"
+    },
+    "normal": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\road\\road_normal.png",
+      "url": "/pbr/road/road_normal.png",
+      "channel": "normal",
+      "source": "reference-pixel-extraction"
+    },
+    "ao": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\road\\road_ao.png",
+      "url": "/pbr/road/road_ao.png",
+      "channel": "ao",
+      "source": "reference-pixel-extraction"
+    }
+  },
+  "diagnostics": {
+    "sourceWidth": 76,
+    "sourceHeight": 16,
+    "mapSize": 1024,
+    "cropBBoxPixels": {
+      "x": 0,
+      "y": 0,
+      "width": 76,
+      "height": 16
+    },
+    "mask": {
+      "backgroundColor": "#D0BEAE",
+      "backgroundNoise": 13.675,
+      "transparentPixelFraction": 0.0,
+      "foregroundCoverage": 0.4811
+    },
+    "mapStats": {
+      "valueRange": 0.1045,
+      "heightP90Gradient": 0.01869,
+      "roughnessBase": 0.684,
+      "roughnessVariation": 0.05,
+      "normalStrength": 0.178,
+      "blurRadius": 21
+    },
+    "palette": [
+      "#D2BFAF",
+      "#D0BDAD",
+      "#F1CE8E",
+      "#D0B89D",
+      "#EDDFD1"
+    ]
+  },
+  "warnings": [
+    "single-image inverse rendering cannot prove true physical PBR; confidence is capped",
+    "low value range weakens height/roughness inference"
+  ],
+  "limitation": "single-image PBR extraction is an estimate; 70%+ extraction confidence still needs render screenshot review"
+}

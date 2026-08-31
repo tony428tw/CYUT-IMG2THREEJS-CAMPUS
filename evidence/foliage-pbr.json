@@ -1,0 +1,87 @@
+{
+  "ok": true,
+  "verdict": "pass",
+  "confidence": 0.793,
+  "estimatedFidelity": 0.793,
+  "targetThreshold": 0.7,
+  "materialId": "foliage",
+  "sourceImage": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\material-crops\\foliage.png",
+  "outDir": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\foliage",
+  "palette": [
+    "#8B9336",
+    "#BEC04C",
+    "#D5D361",
+    "#A4AA3E",
+    "#535624"
+  ],
+  "maps": {
+    "albedo": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\foliage\\foliage_albedo.png",
+      "url": "/pbr/foliage/foliage_albedo.png",
+      "channel": "albedo",
+      "source": "reference-pixel-extraction"
+    },
+    "roughness": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\foliage\\foliage_roughness.png",
+      "url": "/pbr/foliage/foliage_roughness.png",
+      "channel": "roughness",
+      "source": "reference-pixel-extraction"
+    },
+    "height": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\foliage\\foliage_height.png",
+      "url": "/pbr/foliage/foliage_height.png",
+      "channel": "height",
+      "source": "reference-pixel-extraction"
+    },
+    "normal": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\foliage\\foliage_normal.png",
+      "url": "/pbr/foliage/foliage_normal.png",
+      "channel": "normal",
+      "source": "reference-pixel-extraction"
+    },
+    "ao": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\foliage\\foliage_ao.png",
+      "url": "/pbr/foliage/foliage_ao.png",
+      "channel": "ao",
+      "source": "reference-pixel-extraction"
+    }
+  },
+  "diagnostics": {
+    "sourceWidth": 53,
+    "sourceHeight": 31,
+    "mapSize": 1024,
+    "cropBBoxPixels": {
+      "x": 0,
+      "y": 0,
+      "width": 53,
+      "height": 31
+    },
+    "mask": {
+      "backgroundColor": "#9AA344",
+      "backgroundNoise": 101.691,
+      "transparentPixelFraction": 0.0,
+      "foregroundCoverage": 0.9513
+    },
+    "mapStats": {
+      "valueRange": 0.3336,
+      "heightP90Gradient": 0.02282,
+      "roughnessBase": 0.696,
+      "roughnessVariation": 0.05,
+      "normalStrength": 0.183,
+      "blurRadius": 21
+    },
+    "palette": [
+      "#8B9336",
+      "#BEC04C",
+      "#D5D361",
+      "#A4AA3E",
+      "#535624"
+    ]
+  },
+  "warnings": [
+    "image is not clearly isolated from background; using most pixels as material evidence",
+    "object/background separation is weak",
+    "single-image inverse rendering cannot prove true physical PBR; confidence is capped"
+  ],
+  "limitation": "single-image PBR extraction is an estimate; 70%+ extraction confidence still needs render screenshot review"
+}

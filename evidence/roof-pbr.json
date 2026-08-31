@@ -1,0 +1,88 @@
+{
+  "ok": true,
+  "verdict": "pass",
+  "confidence": 0.769,
+  "estimatedFidelity": 0.769,
+  "targetThreshold": 0.7,
+  "materialId": "roof",
+  "sourceImage": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\material-crops\\roof.png",
+  "outDir": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\roof",
+  "palette": [
+    "#BD826A",
+    "#B1755D",
+    "#9E634D",
+    "#C68E76",
+    "#633B30"
+  ],
+  "maps": {
+    "albedo": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\roof\\roof_albedo.png",
+      "url": "/pbr/roof/roof_albedo.png",
+      "channel": "albedo",
+      "source": "reference-pixel-extraction"
+    },
+    "roughness": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\roof\\roof_roughness.png",
+      "url": "/pbr/roof/roof_roughness.png",
+      "channel": "roughness",
+      "source": "reference-pixel-extraction"
+    },
+    "height": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\roof\\roof_height.png",
+      "url": "/pbr/roof/roof_height.png",
+      "channel": "height",
+      "source": "reference-pixel-extraction"
+    },
+    "normal": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\roof\\roof_normal.png",
+      "url": "/pbr/roof/roof_normal.png",
+      "channel": "normal",
+      "source": "reference-pixel-extraction"
+    },
+    "ao": {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\public\\pbr\\roof\\roof_ao.png",
+      "url": "/pbr/roof/roof_ao.png",
+      "channel": "ao",
+      "source": "reference-pixel-extraction"
+    }
+  },
+  "diagnostics": {
+    "sourceWidth": 63,
+    "sourceHeight": 25,
+    "mapSize": 1024,
+    "cropBBoxPixels": {
+      "x": 0,
+      "y": 0,
+      "width": 63,
+      "height": 25
+    },
+    "mask": {
+      "backgroundColor": "#B9866F",
+      "backgroundNoise": 33.347,
+      "transparentPixelFraction": 0.0,
+      "foregroundCoverage": 1.0
+    },
+    "mapStats": {
+      "valueRange": 0.2389,
+      "heightP90Gradient": 0.06917,
+      "roughnessBase": 0.73,
+      "roughnessVariation": 0.134,
+      "normalStrength": 0.237,
+      "blurRadius": 21
+    },
+    "palette": [
+      "#BD826A",
+      "#B1755D",
+      "#9E634D",
+      "#C68E76",
+      "#633B30"
+    ]
+  },
+  "warnings": [
+    "image is not clearly isolated from background; using most pixels as material evidence",
+    "object/background separation is weak",
+    "single-image inverse rendering cannot prove true physical PBR; confidence is capped",
+    "low value range weakens height/roughness inference"
+  ],
+  "limitation": "single-image PBR extraction is an estimate; 70%+ extraction confidence still needs render screenshot review"
+}
