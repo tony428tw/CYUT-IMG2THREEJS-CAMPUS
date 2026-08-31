@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "kind": "interior-difference",
+  "baseline": "C:\\Users\\tony428tw\\Desktop\\1150902\u6295\u5165\u4e0d\u8d85\u8f09\uff0c\u5b78\u7fd2\u525b\u525b\u597dAIGC \u8207 XR \u8de8\u57df\u8a2d\u8a08\u4e4b\u6559\u5b78\u5be6\u8e10\\\u671d\u967d\u6821\u5712\u7167\u7247\\ChatGPT Image 2026\u5e748\u670831\u65e5 \u4e0a\u534803_25_19.png",
+  "render": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\structural-pass\\match.png",
+  "band": {
+    "from": 0.0,
+    "to": 1.0
+  },
+  "grid": 192,
+  "cellsCompared": 18050,
+  "warnings": [],
+  "interiorDifference": 0.15802056173141227,
+  "status": "measured"
+}

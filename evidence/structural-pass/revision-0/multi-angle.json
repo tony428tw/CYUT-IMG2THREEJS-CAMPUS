@@ -1,0 +1,20 @@
+{
+  "referenceAreaFraction": 0.4667758344490138,
+  "angles": [
+    {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\structural-pass\\right.png",
+      "areaFraction": 0.31123841425795246,
+      "ratio": 0.6667834778236559,
+      "degenerate": false
+    },
+    {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\structural-pass\\rear.png",
+      "areaFraction": 0.43634575961396566,
+      "ratio": 0.934807947221672,
+      "degenerate": false
+    }
+  ],
+  "degenerate": false,
+  "collapseRatio": 0.15,
+  "note": "deterministic; zero token; a flat-plane-faking-a-volume collapses in silhouette area when orbited"
+}
