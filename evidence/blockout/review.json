@@ -1,0 +1,10 @@
+{
+  "score":0.76,
+  "summary":"Blockout goal accepted: tower/wing height hierarchy, roof tiers, three entrance openings and grounded display base read correctly. Tier1 on the independently annotated reference exterior versus actual geometry silhouette passes IoU 0.867. Original-colour segmentation remains 0.801 and is retained as a limitation, not rewritten. Full-colour comparison shows absent meso architecture and simplified foliage, deferred to their locked passes.",
+  "layers":{"silhouetteProportion":0.81,"componentStructure":0.80,"formDetail":0.40,"materialSurface":0.48,"lightingCamera":0.73},
+  "features":[
+    {"id":"clocktower-massing","score":0.81,"visible":true,"notes":"Raised slender central tower with bilateral wings; footprint and height hierarchy match approximately."},
+    {"id":"hip-roof-system","score":0.80,"visible":true,"notes":"Truncated outer hip roofs, front turret pair and separate tower pyramid are present; tile/parapet detail belongs to later passes."},
+    {"id":"entrance-and-ground","score":0.81,"visible":true,"notes":"Three real openings above a solid display base; stair and ground detail not yet unlocked."}
+  ]
+}
