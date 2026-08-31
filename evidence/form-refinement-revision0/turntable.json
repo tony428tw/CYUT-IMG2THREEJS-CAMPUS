@@ -1,0 +1,98 @@
+{
+  "angles": [
+    {
+      "azimuth": 0.0,
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\form-refinement\\front.png",
+      "isReference": true,
+      "segmented": true,
+      "holed": false,
+      "interiorHolePixelCount": 3550,
+      "interiorHoleFraction": 0.008935425817088057,
+      "largestHolePixelCount": 177,
+      "largestHoleBBox": {
+        "x": 618,
+        "y": 277,
+        "width": 102,
+        "height": 12
+      },
+      "areaFraction": 0.43109266493055554,
+      "ratio": 1.0,
+      "degenerate": false
+    },
+    {
+      "azimuth": 90.0,
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\form-refinement\\right.png",
+      "isReference": false,
+      "segmented": true,
+      "holed": true,
+      "interiorHolePixelCount": 3582,
+      "interiorHoleFraction": 0.012724237149657206,
+      "largestHolePixelCount": 108,
+      "largestHoleBBox": {
+        "x": 631,
+        "y": 306,
+        "width": 104,
+        "height": 2
+      },
+      "areaFraction": 0.30545789930555556,
+      "ratio": 0.7085666821882984,
+      "degenerate": false
+    },
+    {
+      "azimuth": 180.0,
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\form-refinement\\rear.png",
+      "isReference": false,
+      "segmented": true,
+      "holed": false,
+      "interiorHolePixelCount": 1038,
+      "interiorHoleFraction": 0.0026573140136193743,
+      "largestHolePixelCount": 95,
+      "largestHoleBBox": {
+        "x": 761,
+        "y": 243,
+        "width": 48,
+        "height": 4
+      },
+      "areaFraction": 0.4238498263888889,
+      "ratio": 0.9831988824425176,
+      "degenerate": false
+    },
+    {
+      "azimuth": 270.0,
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\form-refinement\\left.png",
+      "isReference": false,
+      "segmented": true,
+      "holed": true,
+      "interiorHolePixelCount": 3813,
+      "interiorHoleFraction": 0.013657708384822859,
+      "largestHolePixelCount": 323,
+      "largestHoleBBox": {
+        "x": 476,
+        "y": 320,
+        "width": 10,
+        "height": 42
+      },
+      "areaFraction": 0.3029329427083333,
+      "ratio": 0.702709573490731,
+      "degenerate": false
+    }
+  ],
+  "referenceAzimuth": 0.0,
+  "requiredAzimuths": [
+    0.0,
+    90.0,
+    180.0,
+    270.0
+  ],
+  "azimuthTolerance": 5.0,
+  "missingAzimuths": [],
+  "covered": true,
+  "collapseRatio": 0.15,
+  "degenerate": false,
+  "allowHoles": true,
+  "holed": true,
+  "unsegmentedAzimuths": [],
+  "segmentationReliable": true,
+  "passed": true,
+  "note": "deterministic; zero token; mandatory azimuth coverage catches off-axis-only defects, interior-hole flood fill catches silhouette-enclosed background that an area-only check misses"
+}

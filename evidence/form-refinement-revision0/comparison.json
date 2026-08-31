@@ -1,0 +1,9 @@
+{
+  "comparisonImage": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\form-refinement\\comparison.png",
+  "referenceImage": "C:\\Users\\tony428tw\\Desktop\\1150902投入不超載，學習剛剛好AIGC 與 XR 跨域設計之教學實踐\\朝陽校園照片\\ChatGPT Image 2026年8月31日 上午03_25_19.png",
+  "renderScreenshot": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\form-refinement\\match.png",
+  "layout": "left=reference,right=render",
+  "panelWidth": 720,
+  "panelHeight": 720,
+  "note": "Send this image to AI vision for global, layer, and semantic feature scores; this script does not score."
+}
