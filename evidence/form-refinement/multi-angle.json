@@ -1,0 +1,20 @@
+{
+  "referenceAreaFraction": 0.44834062913570194,
+  "angles": [
+    {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\form-refinement\\right.png",
+      "areaFraction": 0.298956530591469,
+      "ratio": 0.6668066892973512,
+      "degenerate": false
+    },
+    {
+      "path": "C:\\Users\\tony428tw\\Desktop\\img2threejs\\campus\\evidence\\form-refinement\\rear.png",
+      "areaFraction": 0.4186450167973124,
+      "ratio": 0.9337655112907437,
+      "degenerate": false
+    }
+  ],
+  "degenerate": false,
+  "collapseRatio": 0.15,
+  "note": "deterministic; zero token; a flat-plane-faking-a-volume collapses in silhouette area when orbited"
+}

@@ -1,0 +1,269 @@
+{
+  "passed": true,
+  "checks": {
+    "silhouetteIoU": 0.8675,
+    "aspectRatioDelta": 0.0234,
+    "scaleDelta": 0.043,
+    "bilateralSymmetryError": 0.1083,
+    "colorDelta": {
+      "checked": 62,
+      "maxDeltaE": 59.31,
+      "perComponent": [
+        {
+          "componentId": null,
+          "deltaE": 16.63
+        },
+        {
+          "componentId": null,
+          "deltaE": 28.82
+        },
+        {
+          "componentId": null,
+          "deltaE": 59.31
+        },
+        {
+          "componentId": null,
+          "deltaE": 16.63
+        },
+        {
+          "componentId": null,
+          "deltaE": 16.63
+        },
+        {
+          "componentId": null,
+          "deltaE": 16.63
+        },
+        {
+          "componentId": null,
+          "deltaE": 16.63
+        },
+        {
+          "componentId": null,
+          "deltaE": 31.42
+        },
+        {
+          "componentId": null,
+          "deltaE": 31.42
+        },
+        {
+          "componentId": null,
+          "deltaE": 31.42
+        },
+        {
+          "componentId": null,
+          "deltaE": 31.42
+        },
+        {
+          "componentId": null,
+          "deltaE": 50.59
+        },
+        {
+          "componentId": null,
+          "deltaE": 31.42
+        },
+        {
+          "componentId": null,
+          "deltaE": 16.63
+        },
+        {
+          "componentId": null,
+          "deltaE": 31.42
+        },
+        {
+          "componentId": null,
+          "deltaE": 16.63
+        },
+        {
+          "componentId": null,
+          "deltaE": 31.42
+        },
+        {
+          "componentId": null,
+          "deltaE": 50.59
+        },
+        {
+          "componentId": null,
+          "deltaE": 15.9
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 15.9
+        },
+        {
+          "componentId": null,
+          "deltaE": 50.59
+        },
+        {
+          "componentId": null,
+          "deltaE": 15.9
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 15.9
+        },
+        {
+          "componentId": null,
+          "deltaE": 15.9
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 15.9
+        },
+        {
+          "componentId": null,
+          "deltaE": 15.9
+        },
+        {
+          "componentId": null,
+          "deltaE": 16.63
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 14.76
+        },
+        {
+          "componentId": null,
+          "deltaE": 12.07
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 59.31
+        },
+        {
+          "componentId": null,
+          "deltaE": 54.32
+        },
+        {
+          "componentId": null,
+          "deltaE": 54.32
+        },
+        {
+          "componentId": null,
+          "deltaE": 54.32
+        },
+        {
+          "componentId": null,
+          "deltaE": 54.32
+        },
+        {
+          "componentId": null,
+          "deltaE": 59.31
+        },
+        {
+          "componentId": null,
+          "deltaE": 54.32
+        },
+        {
+          "componentId": null,
+          "deltaE": 54.32
+        },
+        {
+          "componentId": null,
+          "deltaE": 54.32
+        },
+        {
+          "componentId": null,
+          "deltaE": 54.32
+        },
+        {
+          "componentId": null,
+          "deltaE": 10.73
+        },
+        {
+          "componentId": null,
+          "deltaE": 14.76
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 17.33
+        },
+        {
+          "componentId": null,
+          "deltaE": 54.32
+        },
+        {
+          "componentId": null,
+          "deltaE": 54.32
+        }
+      ],
+      "gated": false
+    }
+  },
+  "failures": [],
+  "maskWarnings": [],
+  "renderHash": "b7ccce1d224e5a06",
+  "passId": "form-refinement"
+}
+STATUS pass=form-refinement completed=2 blocked=none next=diagnose_render.py
