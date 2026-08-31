@@ -1,0 +1,14 @@
+import fs from 'node:fs/promises';
+import crypto from 'node:crypto';
+import validator from 'gltf-validator';
+const path=process.argv[2];if(!path)throw new Error('Provide the actual downloaded GLB path');
+const bytes=await fs.readFile(path),saved=await fs.readFile('public/models/chaoyang-clocktower-campus.glb');
+const read=b=>JSON.parse(b.toString('utf8',20,20+b.readUInt32LE(12)));
+const actual=read(bytes),expected=read(saved);
+const report=await validator.validateBytes(new Uint8Array(bytes),{uri:path,maxIssues:1000});
+const ids=j=>j.nodes.filter(n=>n.extras?.componentId).map(n=>n.extras.componentId).sort();
+const tris=j=>j.meshes.reduce((sum,m)=>sum+m.primitives.reduce((x,p)=>x+j.accessors[p.indices].count/3,0),0);
+const transforms=j=>j.nodes.filter(n=>n.extras?.componentId).map(n=>({id:n.extras.componentId,t:n.translation??[0,0,0],r:n.rotation??[0,0,0,1],s:n.scale??[1,1,1]})).sort((a,b)=>a.id.localeCompare(b.id));
+const equalHierarchy=JSON.stringify(ids(actual))===JSON.stringify(ids(expected)),equalAssembly=JSON.stringify(transforms(actual))===JSON.stringify(transforms(expected));
+const result={passed:report.issues.numErrors===0&&equalHierarchy&&equalAssembly&&tris(actual)===tris(expected),errors:report.issues.numErrors,warnings:report.issues.numWarnings,bytes:bytes.length,sha256:crypto.createHash('sha256').update(bytes).digest('hex'),savedSha256:crypto.createHash('sha256').update(saved).digest('hex'),equalHierarchy,equalAssembly,triangles:tris(actual),components:ids(actual).length,note:'Binary order/encoding may differ between exports; canonical component transforms, topology counts and validation are compared.'};
+await fs.writeFile('evidence/delivery/actual-download.json',JSON.stringify(result,null,2));console.log(result);if(!result.passed)process.exitCode=1;

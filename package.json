@@ -1,0 +1,22 @@
+{
+  "name": "chaoyang-clocktower-diorama",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5178 --strictPort",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 5178 --strictPort",
+    "test": "node check-delivery.mjs"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.0",
+    "@types/three": "0.180.0",
+    "gltf-validator": "^2.0.0-dev.3.10",
+    "typescript": "5.9.2",
+    "vite": "^7.3.6"
+  }
+}

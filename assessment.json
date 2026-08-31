@@ -1,0 +1,1050 @@
+{
+  "preSpecAssessment": {
+    "objectClass": {
+      "primaryType": "tabletop architectural campus diorama",
+      "primaryDomain": "object",
+      "formLanguage": [
+        "architectural",
+        "botanical-like"
+      ],
+      "structureKind": [
+        "compound object",
+        "repeated modules"
+      ],
+      "motionPotential": [
+        "whole-object transform",
+        "detachable"
+      ],
+      "materialFamilies": [
+        "stone",
+        "ceramic",
+        "glass-like",
+        "leaf",
+        "bark"
+      ],
+      "notes": "Tiny decorative people are scenery; not a character likeness reconstruction."
+    },
+    "complexity": {
+      "tier": "ultra-complex",
+      "scores": {
+        "silhouetteComplexity": 3,
+        "componentCount": 3,
+        "hierarchyDepth": 3,
+        "repetitionDensity": 3,
+        "materialLayerCount": 3,
+        "localDetailDensity": 3,
+        "occlusionRisk": 3,
+        "actionReadinessNeed": 1
+      },
+      "estimatedCounts": {
+        "macroComponents": 23,
+        "mesoComponents": 25,
+        "microFeatureGroups": 12,
+        "materialLayers": 11,
+        "repetitionSystems": 5
+      },
+      "reasoning": [
+        "Multiple nested architectural volumes, repeated windows/roof tiles/arches, organic foliage and small streetscape details."
+      ]
+    },
+    "specDepthDecision": {
+      "requiredDepth": "ultra-complex",
+      "minimumComponentLevels": [
+        "macro",
+        "meso",
+        "micro"
+      ],
+      "needsRepetitionSystems": true,
+      "needsMaterialLocalOverrides": true,
+      "needsMultipleReviewViews": true,
+      "needsActionReadyHierarchy": true,
+      "rationale": "Dense architectural diorama with macro massing, meso façade systems and micro tile/window/vegetation systems."
+    },
+    "unknownsToResolveBeforeImplementation": [],
+    "detailInventory": {
+      "scanMethod": "grid-3x3",
+      "targetMinDetails": 16,
+      "details": [
+        {
+          "id": "west-arcade-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "側翼磚拱窗",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "west-arcade/west-arcade-shape"
+          }
+        },
+        {
+          "id": "west-windows-detail",
+          "kind": "linework",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "三層藍灰窗格",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "west-windows/west-windows-shape"
+          }
+        },
+        {
+          "id": "west-piers-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "石柱與腰線",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "west-piers/west-piers-shape"
+          }
+        },
+        {
+          "id": "west-dormers-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "雙老虎窗",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "west-dormers/west-dormers-shape"
+          }
+        },
+        {
+          "id": "west-parapets-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "屋頂女兒牆",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "west-parapets/west-parapets-shape"
+          }
+        },
+        {
+          "id": "west-side-windows-detail",
+          "kind": "linework",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "側立面窗格",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "west-side-windows/west-side-windows-shape"
+          }
+        },
+        {
+          "id": "east-arcade-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "側翼磚拱窗",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "east-arcade/east-arcade-shape"
+          }
+        },
+        {
+          "id": "east-windows-detail",
+          "kind": "linework",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "三層藍灰窗格",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "east-windows/east-windows-shape"
+          }
+        },
+        {
+          "id": "east-piers-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "石柱與腰線",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "east-piers/east-piers-shape"
+          }
+        },
+        {
+          "id": "east-dormers-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "雙老虎窗",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "east-dormers/east-dormers-shape"
+          }
+        },
+        {
+          "id": "east-parapets-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "屋頂女兒牆",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "east-parapets/east-parapets-shape"
+          }
+        },
+        {
+          "id": "east-side-windows-detail",
+          "kind": "linework",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "側立面窗格",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "east-side-windows/east-side-windows-shape"
+          }
+        },
+        {
+          "id": "central-windows-detail",
+          "kind": "linework",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "中央立面窗格",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "central-windows/central-windows-shape"
+          }
+        },
+        {
+          "id": "tower-clock-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "圓形時鐘",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "tower-clock/tower-clock-shape"
+          }
+        },
+        {
+          "id": "tower-window-detail",
+          "kind": "linework",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "鐘樓長拱窗",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "tower-window/tower-window-shape"
+          }
+        },
+        {
+          "id": "tower-lower-window-detail",
+          "kind": "linework",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "鐘樓底層窗",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "tower-lower-window/tower-lower-window-shape"
+          }
+        },
+        {
+          "id": "balcony-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "雙拱陽台",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "balcony/balcony-shape"
+          }
+        },
+        {
+          "id": "stairs-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "中央階梯",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "stairs/stairs-shape"
+          }
+        },
+        {
+          "id": "pavement-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "前方人行道",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "pavement/pavement-shape"
+          }
+        },
+        {
+          "id": "road-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "校門前道路",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "road/road-shape"
+          }
+        },
+        {
+          "id": "roof-dormers-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "入口四老虎窗",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "roof-dormers/roof-dormers-shape"
+          }
+        },
+        {
+          "id": "central-parapet-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "中央屋頂圍牆",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "central-parapet/central-parapet-shape"
+          }
+        },
+        {
+          "id": "front-plaque-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "朝陽科技大學銘牌",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "front-plaque/front-plaque-shape"
+          }
+        },
+        {
+          "id": "west-hedges-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "曲線修剪綠籬",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "west-hedges/west-hedges-shape"
+          }
+        },
+        {
+          "id": "west-shrubs-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "庭園灌木花叢",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "west-shrubs/west-shrubs-shape"
+          }
+        },
+        {
+          "id": "east-hedges-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "曲線修剪綠籬",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "east-hedges/east-hedges-shape"
+          }
+        },
+        {
+          "id": "east-shrubs-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "庭園灌木花叢",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "east-shrubs/east-shrubs-shape"
+          }
+        },
+        {
+          "id": "lamp-system-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "四座路燈",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "lamp-system/lamp-system-shape"
+          }
+        },
+        {
+          "id": "pedestrians-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "校園行人",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "pedestrians/pedestrians-shape"
+          }
+        },
+        {
+          "id": "road-markings-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "行穿線與道路標線",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "road-markings/road-markings-shape"
+          }
+        },
+        {
+          "id": "campus-sign-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "庭園直立校牌",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "campus-sign/campus-sign-shape"
+          }
+        },
+        {
+          "id": "roof-tiles-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "表面細節 roof-tiles",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "roof-tiles/roof-tiles-shape"
+          }
+        },
+        {
+          "id": "brick-joints-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "表面細節 brick-joints",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "brick-joints/brick-joints-shape"
+          }
+        },
+        {
+          "id": "stone-joints-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "表面細節 stone-joints",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "stone-joints/stone-joints-shape"
+          }
+        },
+        {
+          "id": "clock-marks-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "表面細節 clock-marks",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "clock-marks/clock-marks-shape"
+          }
+        },
+        {
+          "id": "balustrade-detail",
+          "kind": "ridge",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "表面細節 balustrade",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "balustrade/balustrade-shape"
+          }
+        },
+        {
+          "id": "window-mullions-detail",
+          "kind": "linework",
+          "region": {
+            "x": 0.25,
+            "y": 0.15,
+            "width": 0.58,
+            "height": 0.65
+          },
+          "description": "表面細節 window-mullions",
+          "affects": [
+            "geometry",
+            "material"
+          ],
+          "scale": "relative",
+          "evidenceRef": "full-object",
+          "confidence": 0.84,
+          "mapsTo": {
+            "ref": "window-mullions/window-mullions-shape"
+          }
+        }
+      ]
+    },
+    "anatomy": {
+      "applies": false,
+      "styleHeads": 0.0,
+      "proportions": {
+        "headUnit": 0.0,
+        "torso": 0.0,
+        "legs": 0.0,
+        "shoulderWidth": 0.0,
+        "hipWidth": 0.0
+      },
+      "pose": {
+        "type": "unassessed",
+        "jointAngles": {}
+      },
+      "faceLandmarks": {
+        "eyeLine": 0.0,
+        "eyeSpacing": 0.0,
+        "noseBase": 0.0,
+        "mouthLine": 0.0,
+        "hairline": 0.0
+      },
+      "features": [],
+      "confidence": 0.0,
+      "note": "Only meaningful when objectClass.primaryDomain is character or hybrid. Set applies=true and fill from forge/stage1_intake/extract_landmarks.py. See grimoire/character/reconstruction.md and grimoire/character/likeness_maximization.md."
+    },
+    "sourceImage": "C:/Users/tony428tw/Desktop/1150902投入不超載，學習剛剛好AIGC 與 XR 跨域設計之教學實踐/朝陽校園照片/ChatGPT Image 2026年8月31日 上午03_25_19.png",
+    "documentedLimitations": [
+      "Rear elevation inferred by symmetry; no interior rooms claimed.",
+      "Tiny plaque logo and pedestrian faces approximated."
+    ]
+  },
+  "qualityContract": {
+    "qualityBar": "ultra-complex",
+    "definitionOfDone": [
+      "A recognizable, interactive stylized reconstruction of the supplied clocktower campus diorama with matching relative massing, true central arches, red hip roofs and pale stone facade.",
+      "Preserve blue window grids, stepped entrance, rounded display plinth, road crossings and clustered green vegetation.",
+      "Rear/occluded architecture is explicitly inferred. No exact architectural survey or exact logo claim."
+    ],
+    "minimumSpecDepth": {
+      "macroComponents": 5,
+      "mesoComponents": 16,
+      "microFeatureGroups": 8,
+      "materialLayers": 4,
+      "repetitionSystems": 2,
+      "reviewViewpoints": 5
+    },
+    "featureGroups": [
+      {
+        "id": "overall-silhouette",
+        "name": "Overall silhouette and proportions",
+        "required": true,
+        "qualityCriteria": [
+          "Bounding shape, dominant curves, negative spaces, and scale relationships are explicitly described."
+        ],
+        "evidenceRefs": [
+          "full-object"
+        ],
+        "failureModes": [
+          "model reads as a generic placeholder instead of the reference object",
+          "major proportions are guessed without evidence"
+        ]
+      },
+      {
+        "id": "primary-structure",
+        "name": "Primary structure and hierarchy",
+        "required": true,
+        "qualityCriteria": [
+          "Major parts, joints, seams, contact points, and parent-child relationships are named before code generation."
+        ],
+        "evidenceRefs": [
+          "full-object"
+        ],
+        "failureModes": [
+          "large visible parts are merged into one mesh",
+          "component hierarchy is too shallow for the observed complexity"
+        ]
+      },
+      {
+        "id": "attachment-joint-correctness",
+        "name": "Attachment and joint correctness",
+        "required": true,
+        "qualityCriteria": [
+          "Every visible child appendage, branch, limb, handle, connector, tube, cable, horn, wing, leg, or hinged part has an attachment contract with parent socket, localStart/localEnd, contact type, embed/overlap, and gap tolerance."
+        ],
+        "evidenceRefs": [
+          "full-object"
+        ],
+        "failureModes": [
+          "child part root floats away from the parent",
+          "branch/limb/tube is centered in space instead of pivoting from its root",
+          "parent-child transform mixes world and local coordinates"
+        ]
+      },
+      {
+        "id": "surface-material-response",
+        "name": "Surface material response",
+        "required": true,
+        "qualityCriteria": [
+          "Albedo zones, roughness, normal/bump/displacement intent, cavity dirt, edge wear, and local overrides are specified where visible.",
+          "Important materials define independent albedo, roughness, height/normal, and AO responses instead of reusing one texture for unrelated PBR channels.",
+          "Surface response is decomposed into macro, meso, and micro frequency bands with scale and amplitude tied to object scale."
+        ],
+        "evidenceRefs": [
+          "full-object"
+        ],
+        "failureModes": [
+          "surface looks like flat plastic",
+          "local material variation is missing or not tied to image evidence"
+        ]
+      },
+      {
+        "id": "reference-lookdev",
+        "name": "Reference color, material, and lighting response",
+        "required": true,
+        "qualityCriteria": [
+          "Material-pass names the reference-derived albedo palette, roughness variation, tactile normal/bump/displacement response, and local masks.",
+          "When a source image is available, run reference PBR extraction and require confidence >= 0.7 before treating maps as implementation-ready.",
+          "Lighting-pass names key/fill/rim or environment light, exposure, tone mapping, background, and contact shadow behavior.",
+          "Neutral, grazing-angle, and reference-matched renders prove that surface relief survives relighting and is not painted into albedo."
+        ],
+        "evidenceRefs": [
+          "full-object"
+        ],
+        "failureModes": [
+          "model has acceptable shape but reads as flat shaded or plastic",
+          "colors are a generic average instead of reference-observed local color zones",
+          "lighting is evenly ambient and cannot reproduce the source value range"
+        ]
+      }
+    ],
+    "visualDeltaChecks": [
+      "silhouette and negative-space delta",
+      "component hierarchy depth delta",
+      "repetition density and distribution delta",
+      "material albedo/roughness/normal response delta",
+      "local feature placement and scale delta"
+    ],
+    "antiShallowSpecRules": [
+      "Do not proceed to code if qualityContract.qualityBar is unassessed.",
+      "Do not proceed to code if the spec only contains a root component for a moderate or complex object.",
+      "Do not proceed to code if required featureGroups are not represented by componentTree, materials, or repetitionSystems.",
+      "Do not proceed to code if visible local features are described only in prose and not attached to components/materials/evidenceRefs.",
+      "Do not proceed past structural-pass if attached child parts lack attachment.parentSocket, localStart, localEnd, embedDepth/overlap, and gapTolerance.",
+      "Do not pass material look-dev when albedo is reused as roughness, height, normal, or AO.",
+      "Do not pass material look-dev without macro, meso, and micro surface frequency bands for close-up materials.",
+      "Do not pass reference-fidelity material look-dev from a source image without usable referencePbr maps or an explicit documented limitation.",
+      "Do not patch a spec with extracted PBR maps when extraction confidence is below the target threshold unless the user explicitly accepts lower fidelity.",
+      "Do not place adjacent separate-geometry parts below 0.02 world-unit seam overlap (source: grimoire/build/geometry_patterns.md).",
+      "Do not satisfy raised or recessed relief, fasteners, or grip structure with a map alone when the feature affects form; use geometry or displacement (source: grimoire/build/geometry_patterns.md).",
+      "Adjacent components must overlap by at least 0.02 world units at shared seams (source: grimoire/build/geometry_patterns.md).",
+      "Raised or recessed relief and fasteners must be geometry, instanced micro-parts, or displacement; a map alone is an approximation (source: grimoire/build/geometry_patterns.md)."
+    ],
+    "mustNotDo": [
+      "Do not proceed to code if qualityContract.qualityBar is unassessed.",
+      "Do not proceed to code if the spec only contains a root component for a moderate or complex object.",
+      "Do not proceed to code if required featureGroups are not represented by componentTree, materials, or repetitionSystems.",
+      "Do not proceed to code if visible local features are described only in prose and not attached to components/materials/evidenceRefs.",
+      "Do not proceed past structural-pass if attached child parts lack attachment.parentSocket, localStart, localEnd, embedDepth/overlap, and gapTolerance.",
+      "Do not pass material look-dev when albedo is reused as roughness, height, normal, or AO.",
+      "Do not pass material look-dev without macro, meso, and micro surface frequency bands for close-up materials.",
+      "Do not pass reference-fidelity material look-dev from a source image without usable referencePbr maps or an explicit documented limitation.",
+      "Do not patch a spec with extracted PBR maps when extraction confidence is below the target threshold unless the user explicitly accepts lower fidelity.",
+      "Do not place adjacent separate-geometry parts below 0.02 world-unit seam overlap (source: grimoire/build/geometry_patterns.md).",
+      "Do not satisfy raised or recessed relief, fasteners, or grip structure with a map alone when the feature affects form; use geometry or displacement (source: grimoire/build/geometry_patterns.md).",
+      "Adjacent components must overlap by at least 0.02 world units at shared seams (source: grimoire/build/geometry_patterns.md).",
+      "Raised or recessed relief and fasteners must be geometry, instanced micro-parts, or displacement; a map alone is an approximation (source: grimoire/build/geometry_patterns.md)."
+    ]
+  },
+  "localSpecSearch": {
+    "collection": "core_3d",
+    "query": "Chaoyang clocktower campus architectural diorama architectural symmetric clock tower mansard hip roof arcade limestone brick foliage instancing",
+    "index": {
+      "status": "rebuilt",
+      "reason": "missing",
+      "fingerprint": "ac4f0bc9028e34083dbb5d5531ae3df7699c8e7641d5f8e6d42e7492ea1be1d0"
+    },
+    "matches": [
+      {
+        "record_id": "core.description-feldman-method-description-analysis-stages",
+        "file_path": "docs/raw/img2threejs-skill-dataset.json",
+        "heading": null,
+        "key_path": "categories.description_conventions[3]",
+        "score": 2.570079644576,
+        "snippets": [
+          "... and should be rejected; Acceptable pointers are strictly visual: straight, curved, large, small, symmetric, textured Dấu hiệu nhận diện: Một mô tả dùng từ như 'đẹp' hay 'tinh tế' đã lấn sang giai đoạn Diễn giải/Đánh ..."
+        ],
+        "source_refs": [
+          {
+            "path": "docs/raw/img2threejs-skill-dataset.json",
+            "heading": null,
+            "key_path": "categories.description_conventions[3]"
+          }
+        ],
+        "evidence_refs": [
+          {
+            "kind": "source",
+            "ref": "docs/raw/img2threejs-skill-dataset.json",
+            "note": "img2threejs NotebookLM research distillation"
+          }
+        ]
+      }
+    ]
+  }
+}

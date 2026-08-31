@@ -1,0 +1,13 @@
+import {build} from 'esbuild';
+import fs from 'node:fs/promises';
+import crypto from 'node:crypto';
+await build({entryPoints:['src/createCampusModel.ts'],outfile:'evidence/factory-node.mjs',bundle:true,platform:'node',format:'esm',external:['three','three/*']});
+const {createCampusModel}=await import('./evidence/factory-node.mjs?'+Date.now());
+const model=createCampusModel();model.updateMatrixWorld(true);
+const meshes=[],seen=new Set();let instances=0;
+model.traverse(o=>{if(!o.isMesh)return;instances++;const g=o.geometry,p=g.getAttribute('position'),n=g.getAttribute('normal');const vertices=Array.from({length:p.count},(_,i)=>[p.getX(i),p.getY(i),p.getZ(i)]);const flat=g.index?Array.from(g.index.array):Array.from({length:p.count},(_,i)=>i);const triangles=Array.from({length:flat.length/3},(_,i)=>flat.slice(i*3,i*3+3));const hash=crypto.createHash('sha256').update(JSON.stringify({vertices,triangles})).digest('hex');if(seen.has(hash))return;seen.add(hash);meshes.push({id:o.name,vertices,triangles,normals:n?Array.from({length:n.count},(_,i)=>[n.getX(i),n.getY(i),n.getZ(i)]):undefined});});
+const parts=Object.values(model.userData.sculptRuntime.nodes).map(n=>{let triangles=0;n.traverse(o=>{if(o.isMesh)triangles+=(o.geometry.index?.count??o.geometry.attributes.position.count)/3;});return {name:n.name,kind:'part',module:n.name,triangles};});
+for(const m of meshes)m.indices=m.triangles.flat();
+await fs.writeFile('evidence/meshes.json',JSON.stringify({provenance:'Actual createCampusModel factory, unique geometry deduplicated before affine transforms',instances,uniqueGeometries:meshes.length,meshes}));
+await fs.writeFile('evidence/parts.json',JSON.stringify({model:model.name,parts,unnamedMeshes:0},null,2));
+console.log({instances,uniqueGeometries:meshes.length,parts:parts.length});
